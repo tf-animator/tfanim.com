@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: 'tfAnimator'
+  navbar:
+    title: false
+    search: false
+    left:
+      - text: Art
+      - text: Assets
+      - text: Blog
+      - text: Commission
+        menu:
+          - text: Prices
+            href: prices.qmd
+          - text: Terms of Service
+            href: tos.qmd
+  page-footer: 
+    left: ''
+    center:
+      #- text: '<div id="motd"></div><script>const messages = ["Welcome back!", "Check out todays update!", "Have a great day!"];document.getElementById("motd").innerText = messages[new Date().getDay() % messages.length];</script>'
+      - text: '<span id="motd"></span><script src="motd.js"></script>'
+    right: 
+      - text: '{{< iconify simple-icons:youtube style="color:red" title="YouTube" >}}'
+        href: https://youtube.com/@tfAnims
+      - text: '{{< iconify pinhead:pawprint style="display:inline-block; rotate:20deg" title="FurAffinity" >}}'
+        href: https://www.furaffinity.net/user/tfanimator
+      - text: '{{< iconify ri:bluesky-fill title="BlueSky" style="color:#1185fe" >}}'
+        href: https://bsky.app/profile/tfanimator.bsky.social
+      #- text: '{{< iconify mdi:github title="GitHub" >}}'
+      #  href: https://github.com/tf-animator
+      - text: '{{< iconify material-symbols:mail-outline title="email" >}}'
+        href: mailto:ani@tfanim.com
+    border: true
+
+format:
+  html:
+    mainfont: Fenix
+    fontcolor: '#aaa'
+    backgroundcolor: '#333'
+    css: 'styles.css'

@@ -1,1 +1,7 @@
 tags
+.DS_Store
+
+docs/
+_extensions/
+/.quarto/
+**/*.quarto_ipynb
