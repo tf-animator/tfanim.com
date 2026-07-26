@@ -1,4 +1,106 @@
 ---
 ---
 
-Don't be a meanie!
+# License
+
+Sharing is very important to me! You retain copyright over your OCs always, but I will usually want to release the commission project files under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/deed.en).[^1] If this doesn't work for you, we can probably still work something out. For example, maybe you'd be okay with me releasing an edited version of your commission, with fur recolored to look more like a generic animal.
+
+CC0 means: You can do whatever you want with the finished renders, project files, and 3D assets inside. You could even claim you made it and resell it for more than you paid me! These freedoms apply to other people as well, although they'd need to edit enough to avoid infringing on your OC's copyright.
+
+
+# What I will/won't do:
+
+* Will:
+  * Feral animal sculpts
+  * Human → feral tf animations
+* Won't:
+  * Sexual NSFW or under-18 characters
+  * Use NSFW music or music I can't easily license[^music-licensing]
+  * Voice act <a style='color:#777'>(I would upset my neighbors!)</a>
+* Maybe:
+  * Humanoid → humanoid tf (i.e. anthro characters). This includes inflation, muscle growth, or petrification.\
+    I find feral tf more fun.
+
+Below are harder things I want to try. If you want to be the first guinea pig for one of these I won't charge for the extra work, but be aware the commission may take ~x2 as long.
+
+* Goo tf
+* Costume tf
+* Insect/octopus tf
+* Robot/mechanical tf
+* Mild gore
+* Stringy drool effects
+* Complex clothes ripping
+* Showing muscles and bones changing under Translucent skin
+* Cartoony style
+* Realistic human likeness
+* Render as a [Gaussian splat](https://superspl.at/), for real-time viewing of the result at any angle
+
+
+# Commission process
+
+I do 3 types of comissions: sculpts, original animations, and animation YCHs. I need a model of the feral target form before I can animate a tf. Animation commissions are prioritized because they're most fun.
+
+The commissioning process goes like this:
+
+* You fill out the commission form
+* I email you; we agree the details, price, and terms
+* You pay an amount upfront
+* After some time, I will send you watermarked WIPs at the following stages.\
+  Please don't hesitate to be detailed in your revision notes! :)
+  * Sculpts
+    * 50% upfront payment 
+    * Basic shape (1 revision)
+    * Main sculpt & fur groom (1 revision)
+    * Final 50% payment due
+    * Posing and rendering (2 minor revisions)
+  * Original animations
+    * 40% upfront payment
+    * Very rough animatic / blockout (3 revisions)
+    * Next 30% payment due
+    * Animation block out & environment (2 minor revisions)
+    * Animation in-betweening (1 minor revision)
+    * Final 30% payment due
+    * I hit the render button and send the fullres animation when it's finished cooking
+  * YCH animations
+    * 70% upfront payment
+    * Animation block out & environment (1 minor revision)
+    * Animation in-betweening (1 minor revision)
+    * Final 30% payment due
+    * I hit the render button and send the fullres animation when it's finished cooking
+
+Modifications or additional renders of a previous sculpt commission may be requested later at reduced cost.
+
+For animations, you may provide an existing 3D model if you can prove it is under a CC0 license. However, I cannot guarantee a discount as most models will still require significant work to prepare for tf animation.
+
+
+# TODO: general info, communication turnaround, revisions sections
+
+
+# Payment
+
+I only accept payment via Stripe.
+
+The installment plans listed above are the minimums; you may pay installments early, or 100% upfront. If you require evenly-spaced invoices let me know ahead of time, otherwise I will send invoices whenever I happen to reach the appropriate stage in the commission process.
+
+### Refunds
+
+Full refunds are available before the following breakpoints:
+
+* Sculpts: Before the 1st revision of the basic shape stage.
+* Original animation: Before the 2nd revision of the rough animatic / blockout stage.
+* YCH animation: Before the 1st revision of the animation block out + environment stage.
+
+Partial refunds are available for those who paid 100% upfront or paid installments early. The refund is proportional to the unfinished portion of the piece, minus any payment processing fees.
+
+I reserve the right to cancel the commission due to breach of these terms, poor communication, or inappropriate behavior on part of the commissioner. In these cases I will still issue a full or partial refund as explained above. I may choose not to deal with someone who has shown themselves to be rude or deceptive.
+
+In the unlikely event I need to cancel for my own to personal reasons (my fault or emergency, i.e. not due to poor behavior of the commissioner), I will always refund in full.
+
+
+
+[^1]: One exception: the project files may contain scripts using the `import bpy` Python module. These are under a GNU license [as required by Blender](https://www.blender.org/about/license/#add-ons).
+[^music-licensing]: Music licensing can be a pain. I am happy to choose for you based on a general idea of what you want, and present you options. But if you have a song in mind you really want and aren't sure if it's okay...
+
+    * If it's mainstream music, check if it's listed in [Epidemic Sound](https://www.epidemicsound.com/music/) or [Lickd](https://app.lickd.co/search).
+    * If it's video game music, check the developer's website. If you can't find their music policy, see if popular streamers have a history of using it. Some copyrighted music may be relatively safe to use even though it's technically not allowed, though I mostly rather not risk it.
+    * If you're still not sure, ask me and I might be able to help figure it out.
