@@ -1,106 +1,104 @@
 ---
 ---
 
-# License
-
-Sharing is very important to me! You retain copyright over your OCs always, but I will usually want to release the commission project files under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/deed.en).[^1] If this doesn't work for you, we can probably still work something out. For example, maybe you'd be okay with me releasing an edited version of your commission, with fur recolored to look more like a generic animal.
-
-CC0 means: You can do whatever you want with the finished renders, project files, and 3D assets inside. You could even claim you made it and resell it for more than you paid me! These freedoms apply to other people as well, although they'd need to edit enough to avoid infringing on your OC's copyright.
+By commissioning me, you agree to these terms and assert you are \>18 years old.\
+Characters must have an established design or be a real-life animal.\
 
 
-# What I will/won't do:
+## License
 
-* Will:
-  * Feral animal sculpts
-  * Human → feral tf animations
-* Won't:
-  * Sexual NSFW or under-18 characters
-  * Use NSFW music or music I can't easily license[^music-licensing]
-  * Voice act <a style='color:#777'>(I would upset my neighbors!)</a>
-* Maybe:
-  * Humanoid → humanoid tf (i.e. anthro characters). This includes inflation, muscle growth, or petrification.\
-    I find feral tf more fun.
+I usually wish to share commission project files and results publicly under a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/deed.en), and/or post and monetize them such as in a video for my YouTube channel. If the commission contains a copyrighted character, or your own OC or human likeness which you don't want shared, but you'd be okay if I later share a version with characters edited to avoid copyright/likeness — that also works, with a fee depending on how much work it would be to edit.\
+I won't do commissions where we can't agree on something I can share under CC0! I like to share.
 
-Below are harder things I want to try. If you want to be the first guinea pig for one of these I won't charge for the extra work, but be aware the commission may take ~x2 as long.
+Yes, CC0 means you can resell the art, train AI with it, whatever. No attribution needed (though I'd appreciate it!). Others can do the same, but they'd need to be careful of your OC's copyright if applicable.
 
-* Goo tf
-* Costume tf
-* Insect/octopus tf
-* Robot/mechanical tf
-* Mild gore
-* Stringy drool effects
-* Complex clothes ripping
-* Showing muscles and bones changing under Translucent skin
-* Cartoony style
-* Realistic human likeness
-* Render as a [Gaussian splat](https://superspl.at/), for real-time viewing of the result at any angle
+## Will/won't do:
+
+* <a style='color:#9b9'>✓</a> 3D feral sculpts
+* <a style='color:#9b9'>✓</a> 3D human→feral tf animation
+* <a style='color:#ff9'>~</a> Copyrighted characters (see [License](#license) section above)
+* <a style='color:#f99'>×</a> Sexual NSFW / overt horniness
+* <a style='color:#f99'>×</a> Tf without major change from humanoid form\
+  (e.g. human→anthro, plain muscle growth, inflation)\
+* <a style='color:#f99'>×</a> AI music, or music I can't easily license[^music-licensing]
+* <a style='color:#f99'>×</a> Voice acting or AI voices
+* <a style='color:#f99'>×</a> Under-18 characters
 
 
-# Commission process
+## Commission process
 
-I do 3 types of comissions: sculpts, original animations, and animation YCHs. I need a model of the feral target form before I can animate a tf. Animation commissions are prioritized because they're most fun.
+I do 2 types of comissions: sculpts and tf animations. I need a sculpt of the target form before I can animate a tf.\
+Currently, I cannot use commissioner-provided models for animations. I must make them myself.
 
-The commissioning process goes like this:
+The process goes like this:
 
 * You fill out the commission form
-* I email you; we agree the details, price, and terms
+* I email you; we agree on details, price, and terms
 * You pay an amount upfront
-* After some time, I will send you watermarked WIPs at the following stages.\
+* After some time, I will send you WIP images at the following stages.\
   Please don't hesitate to be detailed in your revision notes! :)
-  * Sculpts
+  * 3D sculpts:
     * 50% upfront payment 
-    * Basic shape (1 revision)
-    * Main sculpt & fur groom (1 revision)
+    * Basic shape blockout (1 revision)
+    * Main sculpt + fur if applicable (1 revision)
     * Final 50% payment due
-    * Posing and rendering (2 minor revisions)
-  * Original animations
+    * Posing and rendering (1 revision)
+    * It's relatively cheap to request additional renders of your sculpt in the future
+  * 3D tf animations:
     * 40% upfront payment
     * Very rough animatic / blockout (3 revisions)
     * Next 30% payment due
-    * Animation block out & environment (2 minor revisions)
-    * Animation in-betweening (1 minor revision)
+    * Main animation blockout (1 revision)
+    * Animation in-betweening and rendering
     * Final 30% payment due
-    * I hit the render button and send the fullres animation when it's finished cooking
-  * YCH animations
-    * 70% upfront payment
-    * Animation block out & environment (1 minor revision)
-    * Animation in-betweening (1 minor revision)
-    * Final 30% payment due
-    * I hit the render button and send the fullres animation when it's finished cooking
-
-Modifications or additional renders of a previous sculpt commission may be requested later at reduced cost.
-
-For animations, you may provide an existing 3D model if you can prove it is under a CC0 license. However, I cannot guarantee a discount as most models will still require significant work to prepare for tf animation.
+    * You receive the fullres animation video
+* After completion, you receive a fullres render (no watermark)
 
 
-# TODO: general info, communication turnaround, revisions sections
-
-
-# Payment
+## Payment
 
 I only accept payment via Stripe.
 
-The installment plans listed above are the minimums; you may pay installments early, or 100% upfront. If you require evenly-spaced invoices let me know ahead of time, otherwise I will send invoices whenever I happen to reach the appropriate stage in the commission process.
+Installments may also be paid early, or 100% upfront. If you require evenly-spaced invoices let me know ahead of time, otherwise I will send invoices whenever I happen to reach that stage of the process.
 
 ### Refunds
 
 Full refunds are available before the following breakpoints:
 
-* Sculpts: Before the 1st revision of the basic shape stage.
-* Original animation: Before the 2nd revision of the rough animatic / blockout stage.
-* YCH animation: Before the 1st revision of the animation block out + environment stage.
+* Sculpts: Before completing the 1st revision of the basic shape stage.
+* Animations: Before completing the 2nd revision of the rough animatic / blockout stage.
 
 Partial refunds are available for those who paid 100% upfront or paid installments early. The refund is proportional to the unfinished portion of the piece, minus any payment processing fees.
 
-I reserve the right to cancel the commission due to breach of these terms, poor communication, or inappropriate behavior on part of the commissioner. In these cases I will still issue a full or partial refund as explained above. I may choose not to deal with someone who has shown themselves to be rude or deceptive.
+I reserve the right to cancel the commission due to breach of these terms, poor communication, or inappropriate behavior on part of the commissioner. In these cases I still issue a full or partial refund as explained above. I may choose not to deal with someone who has shown themselves to be rude or deceptive.
 
-In the unlikely event I need to cancel for my own to personal reasons (my fault or emergency, i.e. not due to poor behavior of the commissioner), I will always refund in full.
+In the unlikely event I need to cancel for my own to personal reasons (my own fault or emergency), I refund in full.
+
+
+<!---
+# TODO: general info, communication turnaround, revisions sections
+
+All this is kinda too complicated. Look at this ToS: https://mocadoesart.carrd.co/#terms Way simpler.
+
+Notes: Maybe I am being too generous w/ animation revisions. It takes a long time to render anims to show WIPs. Also additional posing and rendering will be cheap enough anyway that maybe 2 revisions aren't necessary.
+
+h0rs3 is way more loose with his details, but maybe that's 'cause he has reputation and you can look at his past library to easily see what you're getting. Also, he _only_ does animations, with $50 discount for reusing existing model -- if I don't want to become a pure sculptor maybe I should do this too. Might also simplify these ToS. But, it's probably okay to start out this way.
+
+I should add a sentence about being able to reuse / CC0-release stuff in event of cancellation
+
+See day note 260727:
+* I can still release files publicly, but with a mixed license. So I could still use metahuman or w/e plantfactory license is and GNU too. This would be a huge timesaver. ~Eventually~, I could get to making e/t myself so I could truly release it all under CC0. But for now, let y/s use these things to accelerate your start.
+* The journal note before I came across a reddit comment who said s/t about "making the commissioner feel special" by letting them be the only one with a fullres unwatermarked render. This makes me think, maybe ppl ~don't~ appreciate the files of their commission being released. My desire to treat the client like royalty conflicts with my desire to share. Maybe I could just add huge discounts for people who allow me to share the files, as well as using generic IRL animals. But maybe it's also just better to not have any ambiguity or choice about whether I can share the files and particularly edit them and remonetize them on YT.
+* Ano/ thought: maybe never posting sculpts and anims of ppls OCs on my own socials, and always keeping it to just generic animals, will help me penetrate industry or normie pet portrait markets more easily. Distancing m/s from posting overtly furry stuff and keeping it generic, but allowing the clients to post the commission as they desire. The client may even ~like~ being the only one who posts the anim of their OC, and not really care if I make a recolored generic-animal copy of it. I mean, most artists repost commissions w/ OC characters in anyway, me posting a recolored/generic version is not that different right? In fact, maybe they even ~prefer~ I post a recolored version of the files instead of the OG version w/ their OC, s.t. o/ ppl can't as easily just nab their OC's 3D model and make porn with it or something that the OC owner didn't consent to.
+
+--->
 
 
 
-[^1]: One exception: the project files may contain scripts using the `import bpy` Python module. These are under a GNU license [as required by Blender](https://www.blender.org/about/license/#add-ons).
-[^music-licensing]: Music licensing can be a pain. I am happy to choose for you based on a general idea of what you want, and present you options. But if you have a song in mind you really want and aren't sure if it's okay...
 
-    * If it's mainstream music, check if it's listed in [Epidemic Sound](https://www.epidemicsound.com/music/) or [Lickd](https://app.lickd.co/search).
-    * If it's video game music, check the developer's website. If you can't find their music policy, see if popular streamers have a history of using it. Some copyrighted music may be relatively safe to use even though it's technically not allowed, though I mostly rather not risk it.
-    * If you're still not sure, ask me and I might be able to help figure it out.
+[^1]: One exception: project files may contain scripts using the `import bpy` Python module. These are GNU licensed [as required by Blender](https://www.blender.org/about/license/#add-ons).
+[^reposting]: My goal is to share as much as possible with a [CC0 license](https://creativecommons.org/publicdomain/zero/1.0/deed.en) so that everyone can benefit or learn from the project files. I also would like to reuse commissions as monetized videos on my YouTube channel if possible.
+[^music-licensing]: I am happy to help choose music and present options. But if you have a song you really want me to use please check:
+
+    * For mainstream music, check if it's listed in [Epidemic Sound](https://www.epidemicsound.com/music/) or [Lickd](https://app.lickd.co/search).
+    * For video game music, check the developer's website for a music policy.
