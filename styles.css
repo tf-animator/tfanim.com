@@ -4,3 +4,7 @@
     linear-gradient(0deg, #222);
 }
 
+/* Hide footnotes in footer */
+section#footnotes { display: none !important; }
+#quarto-appendix.default { border-top: none !important; }
+
