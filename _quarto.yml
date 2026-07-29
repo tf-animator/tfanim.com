@@ -1,5 +1,7 @@
 project:
   type: website
+  resources:
+    - trilium/** # Grab assets file from Trilium exports
 
 website:
   title: 'tfAnimator'
@@ -16,6 +18,7 @@ website:
             href: prices.qmd
           - text: Terms of Service
             href: tos.qmd
+      - text: Contact
   page-footer: 
     left: ''
     center:

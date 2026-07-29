@@ -1,6 +1,9 @@
 tags
 .DS_Store
 
+trilium/*
+!trilium/*.html
+
 _site/
 _extensions/
 /.quarto/
