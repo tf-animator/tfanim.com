@@ -2,10 +2,13 @@ project:
   type: website
   resources:
     - trilium/** # Grab assets file from Trilium exports
+    - assets/**
 
 website:
   title: 'tfAnimator'
   navbar:
+    background: '#222'
+    foreground: '#777'
     title: false
     search: false
     left:
@@ -18,7 +21,15 @@ website:
             href: prices.qmd
           - text: Terms of Service
             href: tos.qmd
-      - text: Contact
+          - text: Currently in Progress
+            href: in_progress.qmd
+      - text: Stats
+        menu:
+          - text: Personal Finances
+            href: stats_finance.qmd
+          - text: Site & Socials Analytics
+            href: stats_site.qmd
+
   page-footer: 
     left: ''
     center:
@@ -35,7 +46,7 @@ website:
       #  href: https://github.com/tf-animator
       - text: '{{< iconify material-symbols:mail-outline title="email" >}}'
         href: mailto:ani@tfanim.com
-    border: true
+    border: false
 
 format:
   html:
