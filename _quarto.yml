@@ -54,3 +54,5 @@ format:
     fontcolor: '#aaa'
     backgroundcolor: '#333'
     css: 'styles.css'
+    include-in-header:
+      - text: '<script data-goatcounter="https://tfanim.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>'
