@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Fenix";
+  src: url("assets/fonts/Fenix-Regular.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+.navbar {
+  background:
+    linear-gradient(185deg, #000, transparent 20%),
+    linear-gradient(0deg, #222);
+}
+.nav-footer {
+  background:
+    linear-gradient(-5deg, #000, transparent 20%),
+    linear-gradient(0deg, #222);
+}
+.nav-footer-center { margin-top: 0; margin-bottom: 0; }
+
+.dropdown-menu { border: 1px solid #555; background: #333; }
+.dropdown-item { background: #333; border-radius: 3px; }
+.dropdown-item:hover { background: #444; }
+.dropdown-text { color: #aaa; }
+
+/* Hide footnotes in footer */
+section#footnotes { display: none !important; }
+#quarto-appendix.default { border-top: none !important; }
