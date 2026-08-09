@@ -1,0 +1,44 @@
+{
+  "asset_count": 1,
+  "file_count": 1,
+  "assets": [
+    {
+      "name": "Topology Markers",
+      "id_type": "NODETREE",
+      "files": [
+        "Node/Geo/Topology Markers.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Node/Geo/Topology%20Markers_thumbnails/Nodetree/topology-markers.webp",
+        "hash": "SHA256:1c63804a18c09e5a97aecd47512f6977a1e66495fa1a4c2f9cff78d1eae8c364"
+      },
+      "meta": {
+        "catalog_id": "262059f7-b82c-473a-b8af-caab6a23ab41",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "Node/Geo/Topology Markers.blend",
+      "size_in_bytes": 146512,
+      "hash": "SHA256:de9b586e1c5e823eb4a734adf11afa04db6fea6f70bb69e148fbb0c018a003dd",
+      "blender_version": "5.2.44",
+      "url": "Node/Geo/Topology%20Markers.blend"
+    }
+  ]
+}

@@ -2,7 +2,10 @@ project:
   type: website
   resources:
     - trilium/** # Grab assets file from Trilium exports
-    - assets/**
+    - site_assets/**
+    - Node/**
+    - _v1/**
+    - _asset-library-meta.json
 
 website:
   title: 'tfAnimator'
