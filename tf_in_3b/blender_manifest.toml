@@ -1,0 +1,13 @@
+# Example: https://docs.blender.org/manual/en/latest/advanced/extensions/getting_started.html#manifest
+schema_version = "1.0.0"
+id = "tf_in_3b"
+version = "1.0.0"
+name = "Transform in 3 Buttons"
+tagline = "Loc/Rot/Scale in all degrees of freedom, only 3 mouse buttons"
+maintainer = "tfAnimator <ani@tfanim.com>"
+type = "add-on"
+website = "https://tfanim.com"
+tags = ["User Interface"]
+blender_version_min = "5.2.0"
+#blender_version_max = ""
+license = [ "SPDX:GPL-3.0-or-later" ]

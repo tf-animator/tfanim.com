@@ -1,0 +1,27 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+KMS	__init__.py	/^KMS = [] # Stores KeyMaps created by this add-on, for easy registering\/deregistering.$/;"	v
+S	__init__.py	/^S = type('SettingsAndStateAccessorThingy', (), {$/;"	v
+SuperTransformTool	__init__.py	/^class SuperTransformTool(bpy.types.WorkSpaceTool):$/;"	c
+TFin3BSettingsAndState	__init__.py	/^class TFin3BSettingsAndState(bpy.types.PropertyGroup):$/;"	c
+VIEW3D_OT_super_transform	__init__.py	/^class VIEW3D_OT_super_transform(bpy.types.Operator):$/;"	c
+all_classes_in_this_file	__init__.py	/^all_classes_in_this_file = tuple($/;"	v
+bl_context_mode	__init__.py	/^    bl_context_mode = 'OBJECT'$/;"	v	class:SuperTransformTool
+bl_description	__init__.py	/^    bl_description = ('This is a tooltip\\nwith multiple lines')$/;"	v	class:SuperTransformTool
+bl_icon	__init__.py	/^    bl_icon = 'ops.transform.transform'$/;"	v	class:SuperTransformTool
+bl_idname	__init__.py	/^    bl_idname = 'super_transform.super_transform'$/;"	v	class:SuperTransformTool
+bl_idname	__init__.py	/^    bl_idname = 'view3d.super_transform'$/;"	v	class:VIEW3D_OT_super_transform
+bl_keymap	__init__.py	/^    bl_keymap = ( ("view3d.super_transform", {"type": 'LEFTMOUSE', "value": 'CLICK_DRAG'}, None), )$/;"	v	class:SuperTransformTool
+bl_label	__init__.py	/^    bl_label = 'Fast Transform'$/;"	v	class:VIEW3D_OT_super_transform
+bl_label	__init__.py	/^    bl_label = 'Super Transform'$/;"	v	class:SuperTransformTool
+bl_options	__init__.py	/^    bl_options = {'REGISTER', 'MODAL_PRIORITY'}$/;"	v	class:VIEW3D_OT_super_transform
+bl_space_type	__init__.py	/^    bl_space_type = 'VIEW_3D'$/;"	v	class:SuperTransformTool
+bpy	__init__.py	/^import bpy$/;"	i
+invoke	__init__.py	/^    def invoke(self,C,ev):$/;"	m	class:VIEW3D_OT_super_transform
+modal	__init__.py	/^    def modal(self,C,ev):$/;"	m	class:VIEW3D_OT_super_transform
+register	__init__.py	/^def register():$/;"	f
+unregister	__init__.py	/^def unregister():$/;"	f
