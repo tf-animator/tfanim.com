@@ -1,0 +1,43 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+087e4add-cdae-41ad-a76c-5251052ed326:Brush:Brush
+58220f24-52df-4d35-99c0-f4efef7122f1:Brush/GP:Brush-GP
+6960f371-aa24-4a62-a626-9d5f61d5ca9f:Brush/Groom:Brush-Groom
+bfb01958-d8a2-4a68-8c1e-edde87790cec:Brush/Sculpt:Brush-Sculpt
+39f2c98a-4f4e-416c-9cd3-c4263f19a4d4:Brush/Terrain:Brush-Terrain
+15e6e331-daae-41c8-80af-ac7ba9b7a047:Brush/Texture Paint:Brush-Texture Paint
+7ac8f0a6-4f68-4391-bbb5-e8054170af8b:Character:Character
+2607ff05-f7f5-4482-8faf-5bf187474eba:Character/Hornet:Character-Hornet
+55728b75-5192-4ccf-9db1-4c1e069eb268:Character/Hornet:Character-Hornet
+4550dfd5-ce49-42df-91b7-27d4d96f4261:Character/Hornet/Face:Character-Hornet-Face
+d41e9c42-ce26-4681-8d7c-5da6adf82a2e:Character/Hornet/Hand:Character-Hornet-Hand
+c90d2ba7-d764-41e0-82cb-74df1f623a30:Character/Hornet/Pose:Character-Hornet-Pose
+cc73b07c-f248-4745-8ee8-5b30b0d68ae6:Gobo:Gobo
+f9ebfba8-98c8-46ae-907f-78b14900f688:Gobo/Abstract:Gobo-Abstract
+ae07f91f-09db-459a-8420-0f31d7ea1f1c:Gobo/Animated Colored:Gobo-Animated Colored
+5126af05-e5f5-4a79-8353-fffc6662a245:Gobo/Animated Dust:Gobo-Animated Dust
+2cf418c9-6bf5-44d3-90c9-29b47f0d80d9:Gobo/Animated Leaves:Gobo-Animated Leaves
+094bca66-e2db-4fc7-b5a1-42d711654423:Gobo/Animated Rain:Gobo-Animated Rain
+5fd9ed59-acaf-4c74-947f-bc5d0d3a2f1f:Gobo/Animated Smoke:Gobo-Animated Smoke
+fdecf786-2b4e-4bb8-aafc-1327dee18083:Gobo/Animated_Cloud:Gobo-Animated_Cloud
+1187e658-a429-4f42-becb-a4353629d325:Gobo/Caustic:Gobo-Caustic
+66c29316-d49c-4093-aa3e-4a3e6fe3d2de:Gobo/Cloud:Gobo-Cloud
+ecf0b3d1-8c62-4e63-b4a0-4eaf9bdea9ac:Gobo/Forest:Gobo-Forest
+cd567201-9509-4fb6-94a6-e52583be9bb2:Gobo/Geometric:Gobo-Geometric
+20d17aac-5d5b-4f18-aacd-9c84bb9f1ffa:Gobo/Grid:Gobo-Grid
+f0b83007-ca2b-4334-8a59-9496b1ed2193:Gobo/Leaves:Gobo-Leaves
+15dd977e-31ed-4d7e-93c3-3f61979e7cfe:Gobo/Windows:Gobo-Windows
+7311d760-a607-44b0-995f-5cf1dd978141:Model:Model
+b6fc3473-af6e-46a6-b551-cfd7918144e2:Model/Anatomical:Model-Anatomical
+e502a7db-0900-4662-83eb-0120f3fdeac1:Model/Basemesh:Model-Basemesh
+40f9b2d6-0843-491f-ac99-985800a3c329:Node:Node
+d8d08683-0b7c-4349-bb79-11afdc63c93e:Node/Composite:Node-Composite
+262059f7-b82c-473a-b8af-caab6a23ab41:Node/Geo:Node-Geo
+2f423c3e-7b27-4553-b395-7dc669ceca05:Node/Mantis:Node-Mantis
+bd810b03-2dfb-4900-ac93-8c94b6e9c002:Node/Shader:Node-Shader
