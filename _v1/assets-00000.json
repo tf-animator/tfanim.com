@@ -1,0 +1,1294 @@
+{
+  "asset_count": 53,
+  "file_count": 2,
+  "assets": [
+    {
+      "name": "1-HAND_RESET",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/1-hand_reset.webp",
+        "hash": "SHA256:2322e9e1976d7b1fb3807d25ba644401dda242177a6668b95edae2b71b5a1d2f"
+      },
+      "meta": {
+        "catalog_id": "d41e9c42-ce26-4681-8d7c-5da6adf82a2e",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "1-Neutral",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/1-neutral.webp",
+        "hash": "SHA256:61c3ff3a6f985d7f06446e3c0f0aed3e1fd9e075622d311fa24580a4c5eeafb8"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "1-RESET",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/1-reset.webp",
+        "hash": "SHA256:21ef13014e2c0ff31edfd5ed4c76756a5df1ac80677dd0db7e93892b14816a83"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "description": "Deselect everything and apply this pose to reset all properties",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Angry",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/angry.webp",
+        "hash": "SHA256:fe66c1097fc15717304cb5142f65516e784251bf92b87c96b5d62364c2533deb"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Angular Head",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/angular-head.webp",
+        "hash": "SHA256:e2e4bc363fd352a7915c588b0cdf4947bee6bb4a40991a7f18d9603c82145c29"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Annoyed",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/annoyed.webp",
+        "hash": "SHA256:2f482976ac4d62d49ebb9b196c1eb1c59c15fa1e7d73455d31325c20af26ce83"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Another Stance",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/another-stance.webp",
+        "hash": "SHA256:685349dcecc6bca179ec2fe432050380fd3cad744cb14cd73e974eb5892e2ccd"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Arms Wide",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/arms-wide.webp",
+        "hash": "SHA256:00778edfacd91c03a0121c28fcf72faaf88bfb9c2dc77c092224f0000b1205f1"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Artwork Recreation",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/artwork-recreation.webp",
+        "hash": "SHA256:fb15e098b8a222d8d7a318b258c62c5f710b2779c95b45a2b821f5bf478e6dd8"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Blink",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/blink.webp",
+        "hash": "SHA256:9b6e44124d7a7c485587eccb4bf375dc28e7b896de0e55076e685004cb4e58c4"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bug-Eyed",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/bug-eyed.webp",
+        "hash": "SHA256:165aa6a4e95fb8659c2eb8c2391404c454276b1e77f8086342945a4f019895a1"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Claw",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/claw.webp",
+        "hash": "SHA256:d9c0660630c6fd0b0c0b5a23358072d465e0670ccd560bc4b934d9e576c85840"
+      },
+      "meta": {
+        "catalog_id": "d41e9c42-ce26-4681-8d7c-5da6adf82a2e",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cloak Sway",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/cloak-sway.webp",
+        "hash": "SHA256:130824387afaef36308f311c08f023cdfc84f6fea3a51d61296c0c7fdde48093"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Elated",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/elated.webp",
+        "hash": "SHA256:b48322641938b229b52b09eb3bdf806d3536dd9c9fde7e0dbcd1a837cea58c40"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Elegant Stance",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/elegant-stance.webp",
+        "hash": "SHA256:acc8d16c7bc6c15c0b03cf44819920b5340a4f6aa53e2e30a084dc8b2f66c63e"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Fist",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/fist.webp",
+        "hash": "SHA256:9e25279fcd09a8f1442f53c553408509d70bad5b43ee30d3ef23ed37838e1c38"
+      },
+      "meta": {
+        "catalog_id": "d41e9c42-ce26-4681-8d7c-5da6adf82a2e",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "GARAMA",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/garama.webp",
+        "hash": "SHA256:031ce26fe741ba642adac46045851a3bc0908dd42913e4fbec6d65593e1db77a"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Happy",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/happy.webp",
+        "hash": "SHA256:d559746ba1bb64677f4b8bd8a79fcf83ed4c4aca6ee763e60775a8dbdef83f16"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Happy Eyes",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/happy-eyes.webp",
+        "hash": "SHA256:61f02328f0530e99a4a6bf42ca4d04736a64b535c266611ec3d07a3324f55e7c"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Holding Cloak",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/holding-cloak.webp",
+        "hash": "SHA256:d4bd96acaf384b99008932a088481414d08965e37757ede5847f52842acf635a"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hollow Eyes",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/hollow-eyes.webp",
+        "hash": "SHA256:a632fb2060f1c845dce050c81aff3c1fededdc7221733e07307e310e47275310"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hornet Resin Statue",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/hornet-resin-statue.webp",
+        "hash": "SHA256:0c8e8dca21ee07b42f96f55bb85fdd3b7715e98f5205524cfd0b195fde9a461e"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "description": "Based on the resin statue available on Fangamer",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hornet Stance",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/hornet-stance.webp",
+        "hash": "SHA256:58723fa10359af6dc043911cfa79acc6f9f554265885dd44d6107eaefc59e221"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Idle_Sprite",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/idle_sprite.webp",
+        "hash": "SHA256:7748a31ce22af3f7d1bdb8350b0921a2a7caed965b424dc3f3d1af64c84e5ef0"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "In-Game Eyes",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/in-game-eyes.webp",
+        "hash": "SHA256:485aef7c1579ffd4f41891436b34708bbb26348ae2db4dee3c24ea188033ff14"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Jump Attack",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/jump-attack.webp",
+        "hash": "SHA256:11b1ab6e34f74d4439be89f73ee7583574a299dff96e3ccebbabe9b3000c6250"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lashes",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/lashes.webp",
+        "hash": "SHA256:98880214baa9e177fc563f534fd404a7ef22cf5f961480efda7140799193071b"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lashes Closed",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/lashes-closed.webp",
+        "hash": "SHA256:73f98d1cec08d7f339df37e0549dca7a8afbbcba7683e57b39b437d93935bfce"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lashes Happy",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/lashes-happy.webp",
+        "hash": "SHA256:0947a632e54aea554d4c16926be32ba231851784edb4097f009c00701fd7364a"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Magazine Recreation",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/magazine-recreation.webp",
+        "hash": "SHA256:17ea8f5e373b206b4bccb3dfe6389ca181d9df08d557837f2b036b1faa4311c3"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Minos",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/minos.webp",
+        "hash": "SHA256:ce8c270ca25e6b7d515fe8486ed45cd6edb6c86222f98841153643767e8ccc6a"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Needolin",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/needolin.webp",
+        "hash": "SHA256:be4d5c81b1dd31e864f5f76598eb79e84fa8ebc7905df0deb38c158b570f253a"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Normal Standing",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/normal-standing.webp",
+        "hash": "SHA256:c190c353ddd197a5650ed09c60a759350c1e1070e671f4e5857fcd7fae16aa5e"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pinch",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/pinch.webp",
+        "hash": "SHA256:e2d29c5be7c0f78f6bbc16577d7c4eea9d7f9e48f298ef89bd2370147077e211"
+      },
+      "meta": {
+        "catalog_id": "d41e9c42-ce26-4681-8d7c-5da6adf82a2e",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Point",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/point.webp",
+        "hash": "SHA256:b2725d7797d961b8bec56fcf210d155973923016b5e957855df4a810d4725039"
+      },
+      "meta": {
+        "catalog_id": "d41e9c42-ce26-4681-8d7c-5da6adf82a2e",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Raised Nail",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/raised-nail.webp",
+        "hash": "SHA256:e6909e00e9e0f80ebd541fe1741fc77006966be59828e677969ea2af3b52e1bb"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Relaxed",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/relaxed.webp",
+        "hash": "SHA256:9a61499be608072bf7dc3b14869343dc28edf919f6c54fdb45f5bba26dcab9a6"
+      },
+      "meta": {
+        "catalog_id": "d41e9c42-ce26-4681-8d7c-5da6adf82a2e",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Running",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/running.webp",
+        "hash": "SHA256:b71c92f1950cdcda0ed4638c2af3990d23ade517029e2ef1a949ee06de8c828f"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Serious",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/serious.webp",
+        "hash": "SHA256:913423a9b307f5ba04d9babb70d4420de7f0b751170f75a1529c815058c36363"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sharp Eyes",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/sharp-eyes.webp",
+        "hash": "SHA256:ac7580726fc6bd9180d239f1077540cd620f288583e3850a0777d945497737e3"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Shock",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/shock.webp",
+        "hash": "SHA256:fb1a60276bc23253d80d5e6e20431e10140d8e83ff8da969f07a944bc7af7451"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sitting",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/sitting.webp",
+        "hash": "SHA256:b4cfa09c56cacce12405b13d525749114c4bfe72eb11c4b111dcedbce79a54d9"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Spread",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/spread.webp",
+        "hash": "SHA256:e5081b8529f8705c167944e46a171b443ffeb22675fa8145beef28f759eec992"
+      },
+      "meta": {
+        "catalog_id": "d41e9c42-ce26-4681-8d7c-5da6adf82a2e",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sprite Recreation",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/sprite-recreation.webp",
+        "hash": "SHA256:a998444a3894ec87a393f61c89e826ff2cca326381323917b8b7264276267487"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Squint",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/squint.webp",
+        "hash": "SHA256:8340ed47c9052d81abb11cc8dd45581cc3737ea09c7f06cc8fc2bcb718ba5b96"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Stance with Needle",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/stance-with-needle.webp",
+        "hash": "SHA256:7a3d3a1dad83974a84dfc960c7d27f89d59e7a8105cc4d2b46dd334b44e4f128"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Standing to Camera",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/standing-to-camera.webp",
+        "hash": "SHA256:3be6eb549bad4535ef7ed54974998d85dec7e1b32866bc837fab9dc12c84dd84"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Surprise",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/surprise.webp",
+        "hash": "SHA256:1fad25735eca341a7f0ea651a705125f5151bc33fa9fc4d208cf8306dd5cf008"
+      },
+      "meta": {
+        "catalog_id": "4550dfd5-ce49-42df-91b7-27d4d96f4261",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tall Proportions",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/tall-proportions.webp",
+        "hash": "SHA256:77fcfc64d3deb50e089ac57a2b1c912244607975d56e1b252e5400b76ff14e6b"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "Tall Stance",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/tall-stance.webp",
+        "hash": "SHA256:397afeed7474450a5b2b2901b65baaeea0df08f38173734503ddd2de52d39ef7"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Waving",
+      "id_type": "ACTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Action/waving.webp",
+        "hash": "SHA256:f422c8794ccf25347c92edd8cbbfd047cb6bd14838aaa0c6c8dbbe1634a8aeb3"
+      },
+      "meta": {
+        "catalog_id": "c90d2ba7-d764-41e0-82cb-74df1f623a30",
+        "properties": [
+          {
+            "name": "is_single_frame",
+            "type": "IDP_INT",
+            "value": 1
+          }
+        ]
+      }
+    },
+    {
+      "name": "CH-Hornet",
+      "id_type": "COLLECTION",
+      "files": [
+        "Character/Dynamic Hornet v1.0.0.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Character/Dynamic%20Hornet%20v1.0.0_thumbnails/Collection/ch-hornet.webp",
+        "hash": "SHA256:a18b1e2dd77da4d21f6d72c0e9b972dba90f80fc636acee5782c72658a223b75"
+      },
+      "meta": {
+        "catalog_id": "2607ff05-f7f5-4482-8faf-5bf187474eba"
+      }
+    },
+    {
+      "name": "Topology Markers",
+      "id_type": "NODETREE",
+      "files": [
+        "Node/Geo/Topology Markers.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Node/Geo/Topology%20Markers_thumbnails/Nodetree/topology-markers.webp",
+        "hash": "SHA256:1c63804a18c09e5a97aecd47512f6977a1e66495fa1a4c2f9cff78d1eae8c364"
+      },
+      "meta": {
+        "catalog_id": "262059f7-b82c-473a-b8af-caab6a23ab41",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "Character/Dynamic Hornet v1.0.0.blend",
+      "size_in_bytes": 163928647,
+      "hash": "SHA256:a2cbf2e6034d0e8e7123042e69522ebae579e8c5d30e35046980ec6b1aeed7ab",
+      "blender_version": "5.2.44",
+      "url": "Character/Dynamic%20Hornet%20v1.0.0.blend"
+    },
+    {
+      "path": "Node/Geo/Topology Markers.blend",
+      "size_in_bytes": 146512,
+      "hash": "SHA256:de9b586e1c5e823eb4a734adf11afa04db6fea6f70bb69e148fbb0c018a003dd",
+      "blender_version": "5.2.44",
+      "url": "Node/Geo/Topology%20Markers.blend"
+    }
+  ]
+}

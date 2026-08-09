@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0.0",
+  "asset_size_bytes": 164075159,
+  "asset_count": 53,
+  "file_count": 2,
+  "pages": [
+    {
+      "url": "_v1/assets-00000.json",
+      "hash": "SHA256:536fa189b05b18a2c59392493b00aadc566464bb217149ed0776a7d0c046cad2"
+    }
+  ],
+  "catalogs": [
+    {
+      "path": "Brush",
+      "uuids": [
+        "087e4add-cdae-41ad-a76c-5251052ed326"
+      ],
+      "simple_name": "Brush"
+    },
+    {
+      "path": "Brush/GP",
+      "uuids": [
+        "58220f24-52df-4d35-99c0-f4efef7122f1"
+      ],
+      "simple_name": "Brush-GP"
+    },
+    {
+      "path": "Brush/Groom",
+      "uuids": [
+        "6960f371-aa24-4a62-a626-9d5f61d5ca9f"
+      ],
+      "simple_name": "Brush-Groom"
+    },
+    {
+      "path": "Brush/Sculpt",
+      "uuids": [
+        "bfb01958-d8a2-4a68-8c1e-edde87790cec"
+      ],
+      "simple_name": "Brush-Sculpt"
+    },
+    {
+      "path": "Brush/Terrain",
+      "uuids": [
+        "39f2c98a-4f4e-416c-9cd3-c4263f19a4d4"
+      ],
+      "simple_name": "Brush-Terrain"
+    },
+    {
+      "path": "Brush/Texture Paint",
+      "uuids": [
+        "15e6e331-daae-41c8-80af-ac7ba9b7a047"
+      ],
+      "simple_name": "Brush-Texture Paint"
+    },
+    {
+      "path": "Character",
+      "uuids": [
+        "7ac8f0a6-4f68-4391-bbb5-e8054170af8b"
+      ],
+      "simple_name": "Character"
+    },
+    {
+      "path": "Character/Hornet",
+      "uuids": [
+        "2607ff05-f7f5-4482-8faf-5bf187474eba",
+        "55728b75-5192-4ccf-9db1-4c1e069eb268"
+      ],
+      "simple_name": "Character-Hornet"
+    },
+    {
+      "path": "Character/Hornet/Face",
+      "uuids": [
+        "4550dfd5-ce49-42df-91b7-27d4d96f4261"
+      ],
+      "simple_name": "Character-Hornet-Face"
+    },
+    {
+      "path": "Character/Hornet/Hand",
+      "uuids": [
+        "d41e9c42-ce26-4681-8d7c-5da6adf82a2e"
+      ],
+      "simple_name": "Character-Hornet-Hand"
+    },
+    {
+      "path": "Character/Hornet/Pose",
+      "uuids": [
+        "c90d2ba7-d764-41e0-82cb-74df1f623a30"
+      ],
+      "simple_name": "Character-Hornet-Pose"
+    },
+    {
+      "path": "Gobo",
+      "uuids": [
+        "cc73b07c-f248-4745-8ee8-5b30b0d68ae6"
+      ],
+      "simple_name": "Gobo"
+    },
+    {
+      "path": "Gobo/Abstract",
+      "uuids": [
+        "f9ebfba8-98c8-46ae-907f-78b14900f688"
+      ],
+      "simple_name": "Gobo-Abstract"
+    },
+    {
+      "path": "Gobo/Animated Colored",
+      "uuids": [
+        "ae07f91f-09db-459a-8420-0f31d7ea1f1c"
+      ],
+      "simple_name": "Gobo-Animated Colored"
+    },
+    {
+      "path": "Gobo/Animated Dust",
+      "uuids": [
+        "5126af05-e5f5-4a79-8353-fffc6662a245"
+      ],
+      "simple_name": "Gobo-Animated Dust"
+    },
+    {
+      "path": "Gobo/Animated Leaves",
+      "uuids": [
+        "2cf418c9-6bf5-44d3-90c9-29b47f0d80d9"
+      ],
+      "simple_name": "Gobo-Animated Leaves"
+    },
+    {
+      "path": "Gobo/Animated Rain",
+      "uuids": [
+        "094bca66-e2db-4fc7-b5a1-42d711654423"
+      ],
+      "simple_name": "Gobo-Animated Rain"
+    },
+    {
+      "path": "Gobo/Animated Smoke",
+      "uuids": [
+        "5fd9ed59-acaf-4c74-947f-bc5d0d3a2f1f"
+      ],
+      "simple_name": "Gobo-Animated Smoke"
+    },
+    {
+      "path": "Gobo/Animated_Cloud",
+      "uuids": [
+        "fdecf786-2b4e-4bb8-aafc-1327dee18083"
+      ],
+      "simple_name": "Gobo-Animated_Cloud"
+    },
+    {
+      "path": "Gobo/Caustic",
+      "uuids": [
+        "1187e658-a429-4f42-becb-a4353629d325"
+      ],
+      "simple_name": "Gobo-Caustic"
+    },
+    {
+      "path": "Gobo/Cloud",
+      "uuids": [
+        "66c29316-d49c-4093-aa3e-4a3e6fe3d2de"
+      ],
+      "simple_name": "Gobo-Cloud"
+    },
+    {
+      "path": "Gobo/Forest",
+      "uuids": [
+        "ecf0b3d1-8c62-4e63-b4a0-4eaf9bdea9ac"
+      ],
+      "simple_name": "Gobo-Forest"
+    },
+    {
+      "path": "Gobo/Geometric",
+      "uuids": [
+        "cd567201-9509-4fb6-94a6-e52583be9bb2"
+      ],
+      "simple_name": "Gobo-Geometric"
+    },
+    {
+      "path": "Gobo/Grid",
+      "uuids": [
+        "20d17aac-5d5b-4f18-aacd-9c84bb9f1ffa"
+      ],
+      "simple_name": "Gobo-Grid"
+    },
+    {
+      "path": "Gobo/Leaves",
+      "uuids": [
+        "f0b83007-ca2b-4334-8a59-9496b1ed2193"
+      ],
+      "simple_name": "Gobo-Leaves"
+    },
+    {
+      "path": "Gobo/Windows",
+      "uuids": [
+        "15dd977e-31ed-4d7e-93c3-3f61979e7cfe"
+      ],
+      "simple_name": "Gobo-Windows"
+    },
+    {
+      "path": "Model",
+      "uuids": [
+        "7311d760-a607-44b0-995f-5cf1dd978141"
+      ],
+      "simple_name": "Model"
+    },
+    {
+      "path": "Model/Anatomical",
+      "uuids": [
+        "b6fc3473-af6e-46a6-b551-cfd7918144e2"
+      ],
+      "simple_name": "Model-Anatomical"
+    },
+    {
+      "path": "Model/Basemesh",
+      "uuids": [
+        "e502a7db-0900-4662-83eb-0120f3fdeac1"
+      ],
+      "simple_name": "Model-Basemesh"
+    },
+    {
+      "path": "Node",
+      "uuids": [
+        "40f9b2d6-0843-491f-ac99-985800a3c329"
+      ],
+      "simple_name": "Node"
+    },
+    {
+      "path": "Node/Composite",
+      "uuids": [
+        "d8d08683-0b7c-4349-bb79-11afdc63c93e"
+      ],
+      "simple_name": "Node-Composite"
+    },
+    {
+      "path": "Node/Geo",
+      "uuids": [
+        "262059f7-b82c-473a-b8af-caab6a23ab41"
+      ],
+      "simple_name": "Node-Geo"
+    },
+    {
+      "path": "Node/Mantis",
+      "uuids": [
+        "2f423c3e-7b27-4553-b395-7dc669ceca05"
+      ],
+      "simple_name": "Node-Mantis"
+    },
+    {
+      "path": "Node/Shader",
+      "uuids": [
+        "bd810b03-2dfb-4900-ac93-8c94b6e9c002"
+      ],
+      "simple_name": "Node-Shader"
+    }
+  ]
+}

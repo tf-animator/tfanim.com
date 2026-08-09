@@ -1,0 +1,14 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:c93d59101f8e059a38fff474b1576e9e03f75ea312209af5c361f3b891c11c04"
+    }
+  },
+  "name": "tfAnimator (CC0)",
+  "contact": {
+    "name": "tfAniamtor",
+    "url": "https://tfanim.com/",
+    "email": "ani@tfanim.com"
+  }
+}
