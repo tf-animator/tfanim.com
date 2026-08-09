@@ -20,7 +20,7 @@
       ],
       "archive_url": "./pie-1.0.0.zip",
       "archive_size": 7070,
-      "archive_hash": "sha256:3695b8844c3f94bac39f093b4b6db679de9e97a86ff175a5af61e1bd1ea24551"
+      "archive_hash": "sha256:e7c7b62c33e93ef2ee9732c79af378571e2a03b43f5b16b3bf002ad16d552b2b"
     },
     {
       "schema_version": "1.0.0",
@@ -40,7 +40,7 @@
       ],
       "archive_url": "./tf_in_3b-1.0.0.zip",
       "archive_size": 3075,
-      "archive_hash": "sha256:1ccc2d2b05e865b917a648a32ae359a5f5565288754c85b668819bb0db7b3287"
+      "archive_hash": "sha256:a49df116d1ec26e7927b99c50842c8795ad6535537bd282ff3f37b21af6c391e"
     }
   ]
 }
