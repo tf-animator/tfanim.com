@@ -1,0 +1,46 @@
+{
+  "version": "v1",
+  "blocklist": [],
+  "data": [
+    {
+      "schema_version": "1.0.0",
+      "id": "pie",
+      "name": "MyPie",
+      "tagline": "My personal pie menu",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "tfAnimator <ani@tfanim.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.2.0",
+      "website": "https://tfanim.com",
+      "tags": [
+        "User Interface"
+      ],
+      "archive_url": "./pie-1.0.0.zip",
+      "archive_size": 7070,
+      "archive_hash": "sha256:e7c7b62c33e93ef2ee9732c79af378571e2a03b43f5b16b3bf002ad16d552b2b"
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "tf_in_3b",
+      "name": "Transform in 3 Buttons",
+      "tagline": "Loc/Rot/Scale in all degrees of freedom, only 3 mouse buttons",
+      "version": "1.0.0",
+      "type": "add-on",
+      "maintainer": "tfAnimator <ani@tfanim.com>",
+      "license": [
+        "SPDX:GPL-3.0-or-later"
+      ],
+      "blender_version_min": "5.2.0",
+      "website": "https://tfanim.com",
+      "tags": [
+        "User Interface"
+      ],
+      "archive_url": "./tf_in_3b-1.0.0.zip",
+      "archive_size": 3075,
+      "archive_hash": "sha256:a49df116d1ec26e7927b99c50842c8795ad6535537bd282ff3f37b21af6c391e"
+    }
+  ]
+}

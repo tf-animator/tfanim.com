@@ -1,11 +1,16 @@
 project:
   type: website
   resources:
-    - trilium/** # Grab assets file from Trilium exports
-    - site_assets/**
-    - Node/**
+    - site_assets/** # Assets for this website
+    - trilium/** # Assets of Trilium exports
+    # Blender Asset Library hosting stuff
     - _v1/**
     - _asset-library-meta.json
+    - Node/**
+    # Blender Extensions hosting stuff
+    - index.json
+    - pie*
+    - tf_in_3b*
 
 website:
   title: 'tfAnimator'
