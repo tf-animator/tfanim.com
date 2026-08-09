@@ -2,7 +2,7 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:c93d59101f8e059a38fff474b1576e9e03f75ea312209af5c361f3b891c11c04"
+      "hash": "SHA256:f42536863c98b7e599273534484b35ced577af92a7385c6280f5acb7aea27264"
     }
   },
   "name": "tfAnimator (CC0)",
