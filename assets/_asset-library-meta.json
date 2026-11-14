@@ -2,10 +2,10 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:f42536863c98b7e599273534484b35ced577af92a7385c6280f5acb7aea27264"
+      "hash": "SHA256:5ba0c44f3bb88d0847a73816e27f99c99dafce6301d26692beca8d968e2ba1af"
     }
   },
-  "name": "tfAnimator (CC0)",
+  "name": "tfAnimator",
   "contact": {
     "name": "tfAniamtor",
     "url": "https://tfanim.com/",

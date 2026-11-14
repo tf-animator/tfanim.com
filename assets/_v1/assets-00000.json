@@ -1,7 +1,153 @@
 {
-  "asset_count": 1,
-  "file_count": 1,
+  "asset_count": 8,
+  "file_count": 8,
   "assets": [
+    {
+      "name": "Color Hairclump",
+      "id_type": "NODETREE",
+      "files": [
+        "Node/Geo/Color Hairclump.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Node/Geo/Color%20Hairclump_thumbnails/Nodetree/color-hairclump.webp",
+        "hash": "SHA256:e73c750871e8bfe5211609454d2b290767a2d6fd1f9b3ad82d27e30a76396ff4"
+      },
+      "meta": {
+        "catalog_id": "262059f7-b82c-473a-b8af-caab6a23ab41",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Color Hairlength",
+      "id_type": "NODETREE",
+      "files": [
+        "Node/Geo/Color Hairlength.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Node/Geo/Color%20Hairlength_thumbnails/Nodetree/color-hairlength.webp",
+        "hash": "SHA256:459ae39f58656820cbb4aa6835e25fc80ed1987a8d9cdaebc185110b082fb533"
+      },
+      "meta": {
+        "catalog_id": "262059f7-b82c-473a-b8af-caab6a23ab41",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Color Hairtips",
+      "id_type": "NODETREE",
+      "files": [
+        "Node/Geo/Color Hairtips.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Node/Geo/Color%20Hairtips_thumbnails/Nodetree/color-hairtips.webp",
+        "hash": "SHA256:204bacc122c0fd0a0cfdc6437df246e1bf270689508ce4e439ab9a321c20aa52"
+      },
+      "meta": {
+        "catalog_id": "262059f7-b82c-473a-b8af-caab6a23ab41",
+        "preferred_import_method": "APPEND",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hair Mask (hair)",
+      "id_type": "NODETREE",
+      "files": [
+        "Node/Geo/Hair Mask (hair).blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Node/Geo/Hair%20Mask%20%28hair%29_thumbnails/Nodetree/hair-mask-hair.webp",
+        "hash": "SHA256:8ba94989a9c66637016192b058191fc1be82d8d0621bfbffec8a07b0f943bbca"
+      },
+      "meta": {
+        "catalog_id": "262059f7-b82c-473a-b8af-caab6a23ab41",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Hair mask (mesh)",
+      "id_type": "NODETREE",
+      "files": [
+        "Node/Geo/Hair mask (mesh).blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Node/Geo/Hair%20mask%20%28mesh%29_thumbnails/Nodetree/hair-mask-mesh.webp",
+        "hash": "SHA256:34fe45a1f8af2335f9ac5627967a7be710dc2e400e201b56231bdc26117e9115"
+      },
+      "meta": {
+        "catalog_id": "262059f7-b82c-473a-b8af-caab6a23ab41",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
     {
       "name": "Topology Markers",
       "id_type": "NODETREE",
@@ -13,7 +159,66 @@
       },
       "thumbnail": {
         "url": "Node/Geo/Topology%20Markers_thumbnails/Nodetree/topology-markers.webp",
-        "hash": "SHA256:1c63804a18c09e5a97aecd47512f6977a1e66495fa1a4c2f9cff78d1eae8c364"
+        "hash": "SHA256:d3ae69f000e1fbc8fd9cf17b6fd5badd31df1d618c8e34dd69f498d12838e177"
+      },
+      "meta": {
+        "catalog_id": "262059f7-b82c-473a-b8af-caab6a23ab41",
+        "preferred_import_method": "APPEND",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Visualize Hairtips",
+      "id_type": "NODETREE",
+      "files": [
+        "Node/Geo/Visualize Hairtips.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Node/Geo/Visualize%20Hairtips_thumbnails/Nodetree/visualize-hairtips.webp",
+        "hash": "SHA256:90c12720c9843e7f254b4e688c99db3321d4876c1f033cff2e812ed4ee78e835"
+      },
+      "meta": {
+        "catalog_id": "262059f7-b82c-473a-b8af-caab6a23ab41",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Visualize Tips",
+      "id_type": "NODETREE",
+      "files": [
+        "Node/Geo/Visualize Tips.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Node/Geo/Visualize%20Tips_thumbnails/Nodetree/visualize-tips.webp",
+        "hash": "SHA256:90c12720c9843e7f254b4e688c99db3321d4876c1f033cff2e812ed4ee78e835"
       },
       "meta": {
         "catalog_id": "262059f7-b82c-473a-b8af-caab6a23ab41",
@@ -34,11 +239,60 @@
   ],
   "files": [
     {
+      "path": "Node/Geo/Color Hairclump.blend",
+      "size_in_bytes": 161573,
+      "hash": "SHA256:9a44847d51e633115f9c24dc49a25082a05052061e723198676809b7343c1d4f",
+      "blender_version": "5.2.44",
+      "url": "Node/Geo/Color%20Hairclump.blend"
+    },
+    {
+      "path": "Node/Geo/Color Hairlength.blend",
+      "size_in_bytes": 423474,
+      "hash": "SHA256:4e540a4ba9eb995eaf34aa7343e07e4af21340f3d76835af245d266882ab9796",
+      "blender_version": "5.2.44",
+      "url": "Node/Geo/Color%20Hairlength.blend"
+    },
+    {
+      "path": "Node/Geo/Color Hairtips.blend",
+      "size_in_bytes": 499769,
+      "hash": "SHA256:e2214aac9b87c4a853f9077ffbe495c9763ec8e19c115b5730f20caebc2afdb9",
+      "blender_version": "5.2.44",
+      "url": "Node/Geo/Color%20Hairtips.blend"
+    },
+    {
+      "path": "Node/Geo/Hair Mask (hair).blend",
+      "size_in_bytes": 246635,
+      "hash": "SHA256:69859e9445ec3fa3f61f2f6005eaaaab3e6ace4a8ad013c4c5fc4e618693ed17",
+      "blender_version": "5.2.44",
+      "url": "Node/Geo/Hair%20Mask%20%28hair%29.blend"
+    },
+    {
+      "path": "Node/Geo/Hair mask (mesh).blend",
+      "size_in_bytes": 163369,
+      "hash": "SHA256:0b0531ae0136adb4472e3621f957bd507dc03aee992045a5c854a8cb622655be",
+      "blender_version": "5.2.44",
+      "url": "Node/Geo/Hair%20mask%20%28mesh%29.blend"
+    },
+    {
       "path": "Node/Geo/Topology Markers.blend",
-      "size_in_bytes": 146512,
-      "hash": "SHA256:de9b586e1c5e823eb4a734adf11afa04db6fea6f70bb69e148fbb0c018a003dd",
+      "size_in_bytes": 202354,
+      "hash": "SHA256:6f8dd2dc23b9f5ab6a20e1f60e36787fa3f038a16055279b16136a8dc58d79d6",
       "blender_version": "5.2.44",
       "url": "Node/Geo/Topology%20Markers.blend"
+    },
+    {
+      "path": "Node/Geo/Visualize Hairtips.blend",
+      "size_in_bytes": 164445,
+      "hash": "SHA256:bf76b3db6ee55f2f5bb75bdfee434ea9ec30c656e647d9ba3f9d1b3ee8961a4e",
+      "blender_version": "5.2.44",
+      "url": "Node/Geo/Visualize%20Hairtips.blend"
+    },
+    {
+      "path": "Node/Geo/Visualize Tips.blend",
+      "size_in_bytes": 164466,
+      "hash": "SHA256:b33020b921cb7af61d3e068a6f085fc84d76a77249f19242bddf1fd48359edff",
+      "blender_version": "5.2.44",
+      "url": "Node/Geo/Visualize%20Tips.blend"
     }
   ]
 }

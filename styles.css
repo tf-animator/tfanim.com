@@ -5,6 +5,8 @@
   font-style: normal;
 }
 
+a { color: skyblue }
+
 .navbar {
   background:
     linear-gradient(185deg, #000, transparent 20%),
