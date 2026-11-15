@@ -1,6 +1,14 @@
 [
   {
-    "listing": "/extensions/listing.html",
+    "listing": "/extensions.html",
+    "items": [
+      "/extensions/pcloudstream.html",
+      "/extensions/l4b.html",
+      "/extensions/onehand.html"
+    ]
+  },
+  {
+    "listing": "/assets.html",
     "items": []
   }
 ]

@@ -7,18 +7,11 @@
     "text": "Free! (I wish)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "tfAnimator",
-    "section": "",
-    "text": "Index page"
-  },
-  {
-    "objectID": "extensions/listing.html",
-    "href": "extensions/listing.html",
+    "objectID": "extensions.html",
+    "href": "extensions.html",
     "title": "Ani’s Blender Extensions",
     "section": "",
-    "text": "Add https://tfanim.com/extensions as a remote extensions repository in your Blender preferences!\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Add https://extensions.tfanim.com as a remote extensions repository in your Blender preferences to see these directly within Blender!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(WIP) .Cloudstream\n\n\n\n\n\n\n\n\n\n\n\n\n\n(WIP) LeapMotion 4 Blender\n\n\nSource code\n\n\n\n\n\n\n\n\n\n\n(WIP) One Hand\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "extensions/onehand.html",
@@ -26,6 +19,13 @@
     "title": "(WIP) One Hand",
     "section": "",
     "text": "Hello there"
+  },
+  {
+    "objectID": "assets.html",
+    "href": "assets.html",
+    "title": "Ani’s Free 3D Assets (CC0 license)",
+    "section": "",
+    "text": "Add https://assets.tfanim.com as a remote asset library in your Blender preferences to see these directly in your asset browser!\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "tos.html",

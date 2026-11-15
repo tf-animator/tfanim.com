@@ -1,7 +1,7 @@
 ---
 title: Ani's Blender Extensions
 listing:
-  contents: blender_extensions/*.qmd
+  contents: extensions/*.qmd
   type: grid
   fields: [image, title, description]
 ---
