@@ -1,5 +1,5 @@
 const msgs = [
-  "owo ^.=.^ rawr x3, as they say.",
+  "As they say: owo ^.=.^ rawr x3",
   "I wonder if I've been changed in the night?",
   "This website is powered by: ME in a CAVE with SCRAPS",
   "Anyone else walk digitigrade when you're home alone? Just me? Oh, okay....",
