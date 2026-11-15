@@ -1,0 +1,9 @@
+---
+title: Ani's Blender Extensions
+listing:
+  contents: blender_extensions/*.qmd
+  type: grid
+  fields: [image, title, description]
+---
+
+Add `https://tfanim.com/extensions` as a remote extensions repository in your Blender preferences!

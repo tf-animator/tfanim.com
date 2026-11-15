@@ -18,7 +18,7 @@
       "tags": [
         "User Interface"
       ],
-      "archive_url": "./blender_extensions/pie-1.0.0.zip",
+      "archive_url": "./extensions/pie-1.0.0.zip",
       "archive_size": 14068,
       "archive_hash": "sha256:ac5e33b75e74f7e72799339252f0f117435b44784df930752865a91c4a2f5887"
     },
@@ -38,7 +38,7 @@
       "tags": [
         "User Interface"
       ],
-      "archive_url": "./blender_extensions/tf_in_3b-1.0.0.zip",
+      "archive_url": "./extensions/tf_in_3b-1.0.0.zip",
       "archive_size": 3075,
       "archive_hash": "sha256:dc7e3cc865d9ab94d615e13b0c7a9a6f8e398f7043706cd736a2d60c160bbf30"
     }
