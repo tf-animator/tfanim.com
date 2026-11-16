@@ -1,0 +1,9 @@
+---
+title: 3D Assets (CC0 license)
+listing:
+  type: grid
+  fields: [image, title, description]
+  categories: true
+---
+
+Add `https://assets.tfanim.com` as a remote asset library to see these directly in your asset browser!

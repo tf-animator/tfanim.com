@@ -1,0 +1,4 @@
+Notes to self:
+Unzip static webpage exports from Trilium Notes into here.
+`_quarto.yml` should have a "resources" field importing this folder s.t. Trilium's CSS stylesheets etc. get pulled into _site/ on render.
+So just `unzip <my_trilium_static_webpage_zip_export> -d trilium/` to unzip the contents here.
