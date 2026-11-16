@@ -1,0 +1,8 @@
+---
+title: Blender Extensions
+listing:
+  type: grid
+  fields: [image, title, description]
+---
+
+Add `https://extensions.tfanim.com` as a remote extensions repo to download/update directly from Blender!

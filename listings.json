@@ -1,6 +1,6 @@
 [
   {
-    "listing": "/extensions.html",
+    "listing": "/extensions/listing.html",
     "items": [
       "/extensions/pcloudstream.html",
       "/extensions/l4b.html",
@@ -8,7 +8,7 @@
     ]
   },
   {
-    "listing": "/assets.html",
+    "listing": "/assets/listing.html",
     "items": []
   }
 ]

@@ -7,34 +7,6 @@
     "text": "Free! (I wish)"
   },
   {
-    "objectID": "extensions.html",
-    "href": "extensions.html",
-    "title": "Blender Extensions",
-    "section": "",
-    "text": "Add https://extensions.tfanim.com as a remote extensions repo to download/update directly from Blender!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(WIP) .Cloudstream\n\n\n\n\n\n\n\n\n\n\n\n\n\n(WIP) LeapMotion 4 Blender\n\n\nSource code\n\n\n\n\n\n\n\n\n\n\n(WIP) One Hand\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "tfAnimator",
-    "section": "",
-    "text": "Welcome to my site! I am an aspiring 3D animal artist. I’m interested in animal transformation animations, which I’m doing R&D on right now. In the meantime, I am taking commissions for regular 3D animal art (pet portraits, furry art, etc.). I release everything I can for free under a CC0/Public Domain license, enjoy!"
-  },
-  {
-    "objectID": "extensions/onehand.html",
-    "href": "extensions/onehand.html",
-    "title": "(WIP) One Hand",
-    "section": "",
-    "text": "Hello there"
-  },
-  {
-    "objectID": "assets.html",
-    "href": "assets.html",
-    "title": "3D Assets (CC0 license)",
-    "section": "",
-    "text": "Add https://assets.tfanim.com as a remote asset library to see these directly in your asset browser!\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "tos.html",
     "href": "tos.html",
     "title": "tfAnimator",
@@ -68,5 +40,33 @@
     "title": "tfAnimator",
     "section": "Footnotes",
     "text": "Footnotes\n\n\nDepends on the owner’s fanart policy. (Unfortunately no Pokémon.)↩︎\nIf you have a song in mind please check:\n\nFor mainstream music, check if it’s listed in Epidemic Sound or Lickd.\nFor video game music, check the developer’s website for a music policy.\n\n↩︎\nIt’s hard to edit animation late in the process, so make good use of the earlier revisions! This one is best suited for small tweaks to lighting, color grading, etc..↩︎"
+  },
+  {
+    "objectID": "extensions/onehand.html",
+    "href": "extensions/onehand.html",
+    "title": "(WIP) One Hand",
+    "section": "",
+    "text": "Hello there"
+  },
+  {
+    "objectID": "extensions/listing.html",
+    "href": "extensions/listing.html",
+    "title": "Blender Extensions",
+    "section": "",
+    "text": "Add https://extensions.tfanim.com as a remote extensions repo to download/update directly from Blender!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(WIP) .Cloudstream\n\n\n\n\n\n\n\n\n\n\n\n\n\n(WIP) LeapMotion 4 Blender\n\n\nSource code\n\n\n\n\n\n\n\n\n\n\n(WIP) One Hand\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "tfAnimator",
+    "section": "",
+    "text": "Welcome to my site! I am an aspiring 3D animal artist. I’m interested in animal transformation animations, which I’m doing R&D on right now. In the meantime, I am taking commissions for regular 3D animal art (pet portraits, furry art, etc.). I release everything I can for free under a CC0/Public Domain license, enjoy!"
+  },
+  {
+    "objectID": "assets/listing.html",
+    "href": "assets/listing.html",
+    "title": "3D Assets (CC0 license)",
+    "section": "",
+    "text": "Add https://assets.tfanim.com as a remote asset library to see these directly in your asset browser!\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]
