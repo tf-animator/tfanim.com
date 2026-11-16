@@ -1,1 +1,1 @@
-Sitemap: https://tf-animator.github.io/tfanim.com/sitemap.xml
+Sitemap: https://tfanim.com/sitemap.xml

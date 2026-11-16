@@ -177,6 +177,7 @@ ul.task-list li input[type="checkbox"] {
 
 
 
+<style> body { background-color: #000; } </style>
 <p>Welcome to my site! I am an aspiring 3D animal artist. I’m interested in animal transformation animations, which I’m doing R&amp;D on right now. In the meantime, I am taking commissions for regular 3D animal art (pet portraits, furry art, etc.). I release everything I can for free under a CC0/Public Domain license, enjoy!</p>
 <div class="column-page">
 <p><img src="./site_assets/images/testrender.png" class="img-fluid"></p>
@@ -258,7 +259,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/tf-animator\.github\.io\/tfanim\.com\/");
+        var filterRegex = new RegExp("https:\/\/tfanim\.com");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
