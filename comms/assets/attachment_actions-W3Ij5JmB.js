@@ -1,0 +1,1 @@
+export{t as copyAttachmentReference,n as getAttachmentActionGroups,r as getDownloadAction,i as getLinkedAttachmentActions,a as getOpenExternallyAction,o as isFileLikeAttachment}from"./attachment_actions-BOlp0JbI.js";

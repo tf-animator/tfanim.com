@@ -1,0 +1,11 @@
+---
+title: Dither Static
+categories: Compos. nodes
+#image: '/assets/Node/Geo/Dither Static_thumbnails/Nodetree/dither-static.webp'
+description: '<a href="/assets/Node/Geo/Topo Markers.blend">TODO</a>'
+date-modified: 2026-11-16
+---
+
+Simply displaces pixels by white noise, giving a glitchy television static-like effect. Mask this effect by fresnel from a shader AOV to give the effect of blurred edges.
+
+TODO: check if this effect isn't already one of the default ones provided by Blender, lol.

@@ -2,34 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://tfanim.com/prices.html</loc>
-    <lastmod>2026-11-14T19:28:13.005Z</lastmod>
+    <lastmod>2026-11-21T17:16:04.117Z</lastmod>
   </url>
   <url>
-    <loc>https://tfanim.com/tos.html</loc>
-    <lastmod>2026-10-23T23:52:50.252Z</lastmod>
+    <loc>https://tfanim.com/assets/Node/Geo/Hair Puff.html</loc>
+    <lastmod>2026-11-17T15:47:27.651Z</lastmod>
   </url>
   <url>
-    <loc>https://tfanim.com/extensions/onehand.html</loc>
-    <lastmod>2026-11-15T16:44:28.280Z</lastmod>
+    <loc>https://tfanim.com/assets/Node/Geo/Topo Marks.html</loc>
+    <lastmod>2026-11-16T23:57:42.424Z</lastmod>
   </url>
   <url>
-    <loc>https://tfanim.com/extensions/listing.html</loc>
-    <lastmod>2026-11-16T10:48:27.107Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tfanim.com/index.html</loc>
-    <lastmod>2026-11-16T12:37:05.506Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tfanim.com/extensions/pcloudstream.html</loc>
-    <lastmod>2026-11-15T16:42:13.591Z</lastmod>
-  </url>
-  <url>
-    <loc>https://tfanim.com/extensions/l4b.html</loc>
-    <lastmod>2026-11-15T16:50:07.388Z</lastmod>
+    <loc>https://tfanim.com/assets/Model/Wolf.html</loc>
+    <lastmod>2026-11-19T15:08:40.097Z</lastmod>
   </url>
   <url>
     <loc>https://tfanim.com/assets/listing.html</loc>
-    <lastmod>2026-11-16T10:48:37.846Z</lastmod>
+    <lastmod>2026-11-16T23:49:08.445Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tfanim.com/extensions/one_hand.html</loc>
+    <lastmod>2026-11-17T21:24:22.909Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tfanim.com/extensions/pcloudstream.html</loc>
+    <lastmod>2026-11-17T18:37:43.048Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tfanim.com/extensions/leap4blender.html</loc>
+    <lastmod>2026-11-17T18:53:15.432Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tfanim.com/index.html</loc>
+    <lastmod>2026-11-17T00:06:24.696Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tfanim.com/extensions/listing.html</loc>
+    <lastmod>2026-11-17T00:47:06.670Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tfanim.com/extensions/sticky_gp.html</loc>
+    <lastmod>2026-11-17T21:08:09.920Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tfanim.com/tos.html</loc>
+    <lastmod>2026-11-21T17:24:16.123Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tfanim.com/assets/Project/Color Wolf.html</loc>
+    <lastmod>2026-11-17T18:44:19.524Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tfanim.com/assets/Node/Compositor/Dither Static.html</loc>
+    <lastmod>2026-11-17T18:41:31.276Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tfanim.com/assets/Node/Geo/Hair Mask.html</loc>
+    <lastmod>2026-11-16T23:50:01.179Z</lastmod>
+  </url>
+  <url>
+    <loc>https://tfanim.com/assets/Node/Shader/Hair Attrs.html</loc>
+    <lastmod>2026-11-17T18:45:05.208Z</lastmod>
   </url>
 </urlset>

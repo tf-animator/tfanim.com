@@ -1,0 +1,1 @@
+import{t as e}from"./jsxRuntime-rsVlha95.js";import{g as t}from"./froca-CVffxdcM.js";import{t as n}from"./Icon-BJWbfEjl.js";function r({icon:r,text:i,children:a,className:o,size:s}){return e(`div`,{className:t(`no-items`,s===`small`&&`no-items-small`,o),children:[e(n,{icon:r}),i,a]})}export{r as t};

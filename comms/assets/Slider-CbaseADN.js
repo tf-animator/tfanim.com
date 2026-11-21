@@ -1,0 +1,1 @@
+import{t as e}from"./jsxRuntime-rsVlha95.js";function t({onChange:t,value:n,min:r=0,max:i=100,...a}){let o=i-r,s=o>0?Math.max(0,Math.min(100,(n-r)/o*100)):0;return e(`input`,{type:`range`,className:`slider`,value:n,min:r,max:i,style:{"--slider-fill-percent":`${s}%`},onChange:e=>{t(e.currentTarget.valueAsNumber)},...a})}export{t};

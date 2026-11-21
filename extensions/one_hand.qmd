@@ -1,0 +1,10 @@
+---
+title: (WIP) One Hand
+description: '<a href="https://codeberg.org/tfAnimator/one-hand">Source code</a>'
+#image: /site_assets/images/leapsc.png
+date-modified: 2026-11-16
+---
+
+Pie menus and special navigation, selection, and transformation controls that let you use Blender with ONLY one hand and a mouse or tablet! You'll probably want an on-screen keyboard to help you type vertex group names, enter numbers, etc., but besides that, trust me, it's epic.
+
+Inspired by [Flow Navigation](https://superhivemarket.com/products/flow-navigation). I LOVE that addon (I recommend at least trying out the free Lite version, it will change your life). However, I had to edit it a bit to get it exactly how I wanted, plus it lagged my viewport and I found its UI annoying. I wanted my own simpler alterative.

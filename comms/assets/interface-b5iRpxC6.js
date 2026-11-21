@@ -1,0 +1,1 @@
+var e=[`list`,`searchPreview`,`grid`,`calendar`,`table`,`geoMap`,`board`,`presentation`,`dashboard`];function t(t){return e.includes(t??``)}function n(e,n){if(!e)return;let r=e.type===`search`?`searchPreview`:`grid`;return t(n)?n===`searchPreview`&&e.type!==`search`?r:n:r}export{n as t};

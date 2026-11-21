@@ -1,0 +1,1 @@
+import{i as e,t,u as n}from"./jsxRuntime-rsVlha95.js";import{t as r}from"./app_host-BAJ1-Xss.js";import{n as i}from"./NoteList-Blk9grdz.js";n();function a(n,a){e(t(r,{noteId:n.dataset.noteId??``,payload:a,children:({note:e,openNote:n})=>t(i,{note:e,notePath:e.noteId,ntxId:null,media:`screen`,onOpenNote:n})}),n)}export{a as default};

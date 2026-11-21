@@ -1,0 +1,19 @@
+---
+title: Hair Mask
+categories: Geo nodes
+image: '/assets/Node/Geo/Hair Mask (Hair)_thumbnails/Nodetree/hair-mask-hair.webp'
+description: '<a href="/assets/Node/Geo/Hair Mask (Hair).blend">.blend (hair)</a>, <a href="/assets/Node/Geo/Hair Mask (Mesh).blend">.blend (mesh)</a>'
+date-modified: 2026-11-16
+---
+
+This improves performance by deleting hairs based on distance to some "mask" empties. This allows you to groom small regions of fur with high density or heavy modifiers in real time, so you can immediately see how your grooming will affect the final look.
+
+### Delete hairs by distance
+
+Deletes hairs if their root is outside the mask.
+
+### Delete hairs by distance to surface mesh
+
+Deletes hairs if their root is stuck to a face of the surface mesh outside the mask. the This is a slightly less accurate, but probably faster approach since there are usually fewer vertices in the hairs' surface mesh than in the hairs themselves.
+
+There are two versions of this nodegroup: one which is applied to the

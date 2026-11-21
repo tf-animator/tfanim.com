@@ -1,0 +1,1 @@
+export{t as syncNativeWindowWithTheme}from"./native_window-C--e7brh.js";

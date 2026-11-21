@@ -1,0 +1,1 @@
+import{n as e,t}from"./jquery.module-B8Gl7xSv.js";t(),Object.assign(window,{$:e,jQuery:e});

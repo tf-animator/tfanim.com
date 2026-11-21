@@ -1,0 +1,13 @@
+---
+title: Hair Puff
+categories: Geo nodes
+#image: '/assets/Node/Geo/Hair Puff_thumbnails/Nodetree/hair-puff.webp'
+description: '<a href="/assets/Node/Geo/Topo Markers.blend">TODO</a>'
+date-modified: 2026-11-16
+---
+
+Makes hair stick straight out from its surface normal. Most useful when used alongside an animated vertex group.
+
+Useful for hackles-raising or static electricity type effects. It is also useful to help avoid hairs intersecting each other or the surface mesh if the surface bends at extreme angles, while being much lighter than hair physics. An advanced usecase could be to combine this with tension mapping to help avoid fur intersecting on the inside of elbows, etc..
+
+Also, when used after Hair Curl, it uncurls the hairs. This can be used to fake springiness.

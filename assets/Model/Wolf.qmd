@@ -1,0 +1,13 @@
+---
+title: Wolf
+categories: 3D Models
+image: '/site_assets/images/tos_basicshape.jpg'
+description: 'v0.1 TODO: <a href="/assets/Model/Wolf.blend">.blend</a>, <a href="/assets/Model/Wolf.blend">.obj</a>'
+date-modified: 2026-11-16
+---
+
+This is my first model ever! It is modeled to the proportions of a red wolf, which are slightly smaller and lankier.
+
+## Changelog
+
+v0.1: initial release: basemesh, UVmap, fur. No oral cavity.

@@ -1,0 +1,1 @@
+import{t as e}from"./jsxRuntime-rsVlha95.js";import{Br as t,zr as n}from"./content_renderer-DGSSPy1d.js";import{y as r}from"./utils-BimonMJa.js";import{s as i}from"./react_utils-D80OeZY6.js";function a(a){let o=n(a);return r()?e(`kbd`,{children:t(o)}):i(o.map((t,n)=>e(`kbd`,{children:t},n)),`+`)}export{a as t};

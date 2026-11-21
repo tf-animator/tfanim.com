@@ -4,69 +4,153 @@
     "href": "prices.html",
     "title": "Prices",
     "section": "",
-    "text": "Free! (I wish)"
+    "text": "$50: Posed render of a character I have already made (4k resolution). (e.g. 1,2)\n\nEach new 3D model comes with a complementary posed render and turntable (1080p 24FPS).\n+$10: Alternate format of the same render (adjusted to fit phone screen, profile picture, etc.).\nYour choice of a transparent, image, or HDRI background.\n+$30: Stylized background (e.g. particle effects).\nMore complex backgrounds/environments priced case-by-case.\n+$100: Fur/wings billowing in wind (e.g.)\n\n\n\n3D Models\n\n$200: Paws (e.g.)\n$500: Head+neck (e.g.)\n\n+$100: Open mouth\n\n$1000: Full body quadruped (e.g.)\n\nPrice reduced if you already ordered a bust/paws and are coming back to complete the animal.\n\n\nExtra bits beyond a typical quadruped, such as accessories, wings, etc. are priced case-by-case.\n\nTechnical notes:\n\nTopology will be suitable for animation but not necessarily videogames/VRChat.\nThe model will have a typical Rigify rig. If you plan to make your own Blender animations and require more functionality, let me know and we can discuss further.\n\n\n\n\nTransformation comics/animations:\nComing soon™\n\n\nYCHs (“Your Character Here”)\nA more affordable option where I take one of my pre-existing models and make slight edits (e.g. recolor fur) to fit your character, or sub your character model into an existing animation.\nComing soon™"
   },
   {
-    "objectID": "tos.html",
-    "href": "tos.html",
-    "title": "tfAnimator",
+    "objectID": "assets/Node/Geo/Hair Puff.html",
+    "href": "assets/Node/Geo/Hair Puff.html",
+    "title": "Hair Puff",
     "section": "",
-    "text": "TODO: “Do not send any payment before I have agreed to give you a slot and requested you to send me the payment.” Also TODO: render resolution 4800x2700 or w/e “NSFW pieces will be displayed on a seperate social media account and will have an additional 50% fee.” More inspo, read: https://charliedoggox3.wixsite.com/charlie-doggo-art/tos They also do option of venmo/cashapp/paypal\nBy commissioning me, you agree to these terms and assert you are &gt;18 years old.\nAt the moment I only do public, SFW, non-anthropomorphic (feral) commissions!\nCharacters must have an established design (i.e. refsheet, or from real-life). Real-life animals get a -20% discount.\nI can feral-ify anthropomorphic characters, if you have reference for what the body shape should roughly look like.\nI reserve the right to adapt your commission for monetized videos on my YouTube channel, and/or release project files under a CC0 license for other 3D artists to learn from. If you wish to remain anonymous, you can choose to not be credited as a sponsor, and I can edit/recolor your character before posting. (I’ll ask you.)"
+    "text": "Makes hair stick straight out from its surface normal. Most useful when used alongside an animated vertex group.\nUseful for hackles-raising or static electricity type effects. It is also useful to help avoid hairs intersecting each other or the surface mesh if the surface bends at extreme angles, while being much lighter than hair physics. An advanced usecase could be to combine this with tension mapping to help avoid fur intersecting on the inside of elbows, etc..\nAlso, when used after Hair Curl, it uncurls the hairs. This can be used to fake springiness."
   },
   {
-    "objectID": "tos.html#will-wont",
-    "href": "tos.html#will-wont",
-    "title": "tfAnimator",
-    "section": "Will / Won’t:",
-    "text": "Will / Won’t:\n\n✓ 3D models of animals (non-anthropomorphic)\n✓ 3D human→animal tf animation\n~ Copyrighted characters1\n× NSFW (if your reference material is NSFW, that’s fine)\n× Use AI music, or music I can’t easily license2\n× Tf without major change from humanoid form"
-  },
-  {
-    "objectID": "tos.html#commission-process",
-    "href": "tos.html#commission-process",
-    "title": "tfAnimator",
-    "section": "Commission process",
-    "text": "Commission process\nI do 2 types of comissions: 3D sculpts and 3D tf animations. I need a sculpt before I can animate a tf.\nYou can skip commissioning a sculpt if you use one of the existing models listed in my assets page.\nCurrently, I cannot use commissioner-provided models for animations. I must make them myself.\nThe process:\n\n(Optional) You DM or email me anytime with questions.\nYou fill out the commission form.\nI email you; we agree on all details, price, and terms upfront.\nAfter some time, I send you WIP renders at the following stages.\nPlease don’t hesitate to be detailed in your revision notes! :)\n\n3D models (expected turnaround 4 months):\n\nBasic shape (1 revision) (example)\nMain sculpt & fur (1 revision) (example)\nDetailing, posing, rendering (1 revision)\n\n3D tf animations:\n\nVery rough animatic (∞ revisions, within reason) (example)\nKey posing (1 revision) (example)\nIn-betweening and rendering (1 revision3)\n\n\n\nAfter completion, you receive a full-resolution render to do with as you please."
-  },
-  {
-    "objectID": "tos.html#payment",
-    "href": "tos.html#payment",
-    "title": "tfAnimator",
-    "section": "Payment",
-    "text": "Payment\nI accept payment via PayPal or Stripe.\nYou can pay in 40/30/30 installments, or 100% upfront. If you require evenly-spaced invoices let me know ahead of time, otherwise I will send invoices whenever I happen to reach the appropriate stage.\n\nRefunds\nFull refunds are only available before the following breakpoints (I’ll remind you):\n\nSculpts: Before completing the 1st revision of the basic shape stage.\nAnimations: Before completing the 3rd revision of the animatic stage.\n\nPartial refunds are available for those who paid early installments or 100% upfront. The refund is proportional to the unfinished portion of the piece, minus any payment processing fees.\nI reserve the right to cancel the commission due to breach of these terms, poor communication, or inappropriate behavior on part of the commissioner. In these cases I still issue a full or partial refund as explained above. I may choose not to deal with someone who has shown themselves to be rude or deceptive.\nIn the unlikely event I need to cancel for my own personal reasons (my own fault or emergency), I refund in full."
-  },
-  {
-    "objectID": "tos.html#footnotes",
-    "href": "tos.html#footnotes",
-    "title": "tfAnimator",
-    "section": "Footnotes",
-    "text": "Footnotes\n\n\nDepends on the owner’s fanart policy. (Unfortunately no Pokémon.)↩︎\nIf you have a song in mind please check:\n\nFor mainstream music, check if it’s listed in Epidemic Sound or Lickd.\nFor video game music, check the developer’s website for a music policy.\n\n↩︎\nIt’s hard to edit animation late in the process, so make good use of the earlier revisions! This one is best suited for small tweaks to lighting, color grading, etc..↩︎"
-  },
-  {
-    "objectID": "extensions/onehand.html",
-    "href": "extensions/onehand.html",
-    "title": "(WIP) One Hand",
+    "objectID": "assets/Node/Geo/Topo Marks.html",
+    "href": "assets/Node/Geo/Topo Marks.html",
+    "title": "Topo Marks",
     "section": "",
-    "text": "Hello there"
+    "text": "This nodegroup helps visualize topology. I find it most useful to highlight poles while I’m retopologizing.\n\nVisualize individual faceloops\nI’m not sure if this is useful but… TODO GIF\n\n\nColor faceloops based on length\nMy favorite. Assigns faceloops a color, grouped by length. This can give a better idea of how faceloops wrap around the mesh, even just looking from one angle."
   },
   {
-    "objectID": "extensions/listing.html",
-    "href": "extensions/listing.html",
-    "title": "Blender Extensions",
+    "objectID": "assets/Model/Wolf.html",
+    "href": "assets/Model/Wolf.html",
+    "title": "Wolf",
     "section": "",
-    "text": "Add https://extensions.tfanim.com as a remote extensions repo to download/update directly from Blender!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(WIP) .Cloudstream\n\n\n\n\n\n\n\n\n\n\n\n\n\n(WIP) LeapMotion 4 Blender\n\n\nSource code\n\n\n\n\n\n\n\n\n\n\n(WIP) One Hand\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "This is my first model ever! It is modeled to the proportions of a red wolf, which are slightly smaller and lankier."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "tfAnimator",
-    "section": "",
-    "text": "Welcome to my site! I am an aspiring 3D animal artist. I’m interested in animal transformation animations, which I’m doing R&D on right now. In the meantime, I am taking commissions for regular 3D animal art (pet portraits, furry art, etc.). I release everything I can for free under a CC0/Public Domain license, enjoy!"
+    "objectID": "assets/Model/Wolf.html#changelog",
+    "href": "assets/Model/Wolf.html#changelog",
+    "title": "Wolf",
+    "section": "Changelog",
+    "text": "Changelog\nv0.1: initial release: basemesh, UVmap, fur. No oral cavity."
   },
   {
     "objectID": "assets/listing.html",
     "href": "assets/listing.html",
     "title": "3D Assets (CC0 license)",
     "section": "",
-    "text": "Add https://assets.tfanim.com as a remote asset library to see these directly in your asset browser!\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Add https://assets.tfanim.com as a remote asset library to see these directly in your Blender asset browser!\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nColor Wolf\n\n\n\nProject Files\n\n\n\nTODO .blend , fullres render\n\n\n\n\n\n\n\n\n\n\n\n\nWolf\n\n\n\n3D Models\n\n\n\nv0.1 TODO: .blend, .obj\n\n\n\n\n\n\n\n\n\n\nDither Static\n\n\n\nCompos. nodes\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\n\n\nTopo Marks\n\n\n\nGeo nodes\n\n\n\n.blend\n\n\n\n\n\n\n\n\n\n\n\n\nHair Mask\n\n\n\nGeo nodes\n\n\n\n.blend (hair), .blend (mesh)\n\n\n\n\n\n\n\n\n\n\nHair Puff\n\n\n\nGeo nodes\n\n\n\nTODO\n\n\n\n\n\n\n\n\n\n\nGroomviz\n\n\n\nShader nodes\n\n\n\nTODO\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "extensions/one_hand.html",
+    "href": "extensions/one_hand.html",
+    "title": "(WIP) One Hand",
+    "section": "",
+    "text": "Pie menus and special navigation, selection, and transformation controls that let you use Blender with ONLY one hand and a mouse or tablet! You’ll probably want an on-screen keyboard to help you type vertex group names, enter numbers, etc., but besides that, trust me, it’s epic.\nInspired by Flow Navigation. I LOVE that addon (I recommend at least trying out the free Lite version, it will change your life). However, I had to edit it a bit to get it exactly how I wanted, plus it lagged my viewport and I found its UI annoying. I wanted my own simpler alterative."
+  },
+  {
+    "objectID": "extensions/pcloudstream.html",
+    "href": "extensions/pcloudstream.html",
+    "title": "(WIP) pCloudstream",
+    "section": "",
+    "text": "Use an XBox Kinect to stream a 3D pointcloud directly into Blender, live!\nThe USB bandwidth of a single computer is limited, so I’m making it so that you can send data from Kinects connected to other computers, over a network.\nCurrently I can stream at about 5FPS. However, there are many optimizations still up for grabs:\n\nDon’t send dead points where xyz==0,0,0. These happen when a surface is too close/far to the Kinect.\nOptions to quantize XYZ and RGB data\nRandomly cull some proportion of the points before sending.\nSend info from the receiver (running Blender) to the senders (connected to Kinects) to:\n\nCull outside a camera’s frustom\nCull outside a certain box area (e.g. to only send a pointcloud of your body and not the walls of the room)\nCull points of a certain color (e.g. to precisely cull a room’s floor even if it is touching your feet)\n\nFix the memory leak in my current implementation…\n\nOverall these optimizations should easily quadruple the FPS at least, so I’m optimistic about being able to livestream pointclouds at high framerates and low performance cost.\nHere’s a picture of my room streamed into Blender. (The ugly striping will go away once I implement vsync.)"
+  },
+  {
+    "objectID": "extensions/leap4blender.html",
+    "href": "extensions/leap4blender.html",
+    "title": "(WIP) Leap 4 Blender",
+    "section": "",
+    "text": "Remember those LeapMotion hand trackers? Well now you can use them to livestream hand mocap into Blender! Even nowadays with AI, Leap trackers are the best hand mocap you can get for the $10-$100 pricerange. Arguably it’s even better than mocap gloves which are multiple times that price. Unfortunately the company went out of business, but you can still get a device pretty easily. All you need is some patience on EBay.\nThe advantage of accellerometer-based devices like gloves over optical devices like Leap, is you don’t have to worry about your palm blocking the device from seeing your fingers. However, if you can work around this limitation, there is no better accuracy than optical mocap. You get sub-milimeter precision and no jittering.\nDemo below (the GIF is at 10FPS which doesn’t do it justice, in reality it’s at a smooth 60FPS). \n\nTODO\n\nCan’t bundle/redistrib the Leap SDK so I have to make an auto-downloader that grabs the SDK from their site. Has to work for Mac/Linux/Windows (pain)\nMake the “possession” code not laggy and fiddly:\n\nDon’t check every timer update, only check every now and then.\nDon’t check if the hands haven’t moved\nMake it toggleable so that the user doesn’t accidentlally possess bones when hovering over them\nAlso make it so that you have to hold-hover over a bone for some interval before possession happens\nAlso make it so that only the “tippiest” bone of each finger is able to possess, before the lower knuckles are allowed to possess."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "tfAnimator",
+    "section": "",
+    "text": "Welcome to my site! I am an aspiring 3D animal artist. I’m currently figuring out how to make animal transformation animations. In the meantime, I am taking commissions for regular 3D animal art (pet portraits, furry art, etc.). I release everything I can for free under a CC0/Public Domain license, enjoy!\nYour commissions sponsor new free assets for everyone."
+  },
+  {
+    "objectID": "extensions/listing.html",
+    "href": "extensions/listing.html",
+    "title": "Blender Extensions",
+    "section": "",
+    "text": "Add https://extensions.tfanim.com as a remote extensions repo to download/update directly from Blender!\nNOTE: None of these are complete yet, but you can still read a bit about them. Check again in a couple months and hopefully at least One Hand will be ready enough for a v1.0 release.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n(WIP) Leap 4 Blender\n\n\nSource code\n\n\n\n\n\n\n\n\n\n\n\n\n(WIP) pCloudstream\n\n\nSource code\n\n\n\n\n\n\n\n\n\n\n(WIP) Sticky GP\n\n\nSource code\n\n\n\n\n\n\n\n\n\n\n(WIP) One Hand\n\n\nSource code\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "extensions/sticky_gp.html",
+    "href": "extensions/sticky_gp.html",
+    "title": "(WIP) Sticky GP",
+    "section": "",
+    "text": "Lets you draw Grease Pencil on a deformed mesh, and have it stick as the mesh deforms further.\nHow it works: similar to the hair system, it simply records the UV coordinate of the mesh where a GP point is drawn. Then there is an accompanying geonodes group that sets the position of each GP point to the 3D position corresponding to that UV coordinate. It’s so simple, and I’ve seen so many people ask for this functionality, and yet no one has done it yet as far as I can tell?! There are a few solutions out there but they all require you to draw on the resting position of the mesh. There was a PR for a GP surface deform modifier a couple years ago, but it fizzled out.\nEspecially in combination with the Build modifier allows you to animate vertex groups in a very art-directible way!"
+  },
+  {
+    "objectID": "tos.html",
+    "href": "tos.html",
+    "title": "Terms of Service",
+    "section": "",
+    "text": "By commissioning me, you agree to these terms and assert you are &gt;18 years old.\nI reserve the right to adapt your commission for monetized videos on my YouTube channel, and/or release project files under a CC0 license for other 3D artists to benefit from. If you wish to remain anonymous, you can choose to not be credited as a sponsor, and if your character is recognizable I can afterwards make a separate anonymized version for public release (e.g. with fur recolored and/or unique details removed). This has no extra cost."
+  },
+  {
+    "objectID": "tos.html#will-wont",
+    "href": "tos.html#will-wont",
+    "title": "Terms of Service",
+    "section": "Will / Won’t:",
+    "text": "Will / Won’t:\n\n✓ 3D models of animals (non-anthropomorphic)\n\nI can feral-ify anthro fursonas, given reference for what the body shape should roughly look like.\n\n~ Copyrighted characters1\n× NSFW\n\nCharacters must have an established design (i.e. a refsheet, or real-life photos)."
+  },
+  {
+    "objectID": "tos.html#typical-commission-process",
+    "href": "tos.html#typical-commission-process",
+    "title": "Terms of Service",
+    "section": "Typical commission process",
+    "text": "Typical commission process\n\n(Optional) DM or email me anytime with questions.\nYou fill out the commission form.\nI email you; we agree on all details, price, and terms upfront.\nAfter some time, I send you WIP renders at the following stages: \n\nNaked mole rat stage (1 revision round) (e.g.)\nFur/scales glow-up stage (1 revision round) (e.g.)\nPosing and post-processing (1 revision round) (e.g.)\n\n\nAfter completion, you receive a render (4k resolution) to do with as you please."
+  },
+  {
+    "objectID": "tos.html#revisions",
+    "href": "tos.html#revisions",
+    "title": "Terms of Service",
+    "section": "Revisions",
+    "text": "Revisions\nDon’t hesitate to be detailed in your revision notes! :)\nPlease desribe all desired changes in one email so I can do them together more efficiently.\nBeyond the free revisions, an extra minor revision costs $20 USD. (Max 3 extra paid revisions per commission.)\nRevisions that need to be made due to the client failing to supply relevant info (e.g. descriptive text, reference photos, or refsheet) until after the commission has started will incur a fee relative to the amount of work needed to amend the commission to specifications."
+  },
+  {
+    "objectID": "tos.html#payment",
+    "href": "tos.html#payment",
+    "title": "Terms of Service",
+    "section": "Payment",
+    "text": "Payment\nYou may pay 100% upfront, or 50% upfront and 50% after the fur/scales stage.\nPlease do not send any payment until I have requested it.\nI accept payment via PayPal or Stripe.\n\nRefunds\nFull refunds are only available before the following breakpoints (I’ll remind you):\n\n3D models: Before completing the 1st revision of the naked mole rat stage.\nAnimations: TBD \n\nPartial refunds are available for those who paid installments early or 100% upfront. The refund is proportional to the unfinished portion of the piece, minus any payment processing fees.\nI reserve the right to cancel the commission due to breach of these terms, poor communication, or inappropriate behavior on part of the commissioner. In these cases I still issue a full or partial refund as explained above. I may choose not to deal with someone who has shown themselves to be rude or deceptive.\nIn the unlikely event I need to cancel for my own personal reasons (my own fault or emergency), I refund in full."
+  },
+  {
+    "objectID": "tos.html#footnotes",
+    "href": "tos.html#footnotes",
+    "title": "Terms of Service",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nDepends on the owner’s fanart policy. (Unfortunately no Pokémon.)↩︎"
+  },
+  {
+    "objectID": "assets/Project/Color Wolf.html",
+    "href": "assets/Project/Color Wolf.html",
+    "title": "Color Wolf",
+    "section": "",
+    "text": "This is my first serious piece ever!\nNote: the particle effect in the background was created using the Insydium NeXus add-on, but the file is still usable even without this add-on; the particles were baked to pointcloud."
+  },
+  {
+    "objectID": "assets/Node/Compositor/Dither Static.html",
+    "href": "assets/Node/Compositor/Dither Static.html",
+    "title": "Dither Static",
+    "section": "",
+    "text": "Simply displaces pixels by white noise, giving a glitchy television static-like effect. Mask this effect by fresnel from a shader AOV to give the effect of blurred edges.\nTODO: check if this effect isn’t already one of the default ones provided by Blender, lol."
+  },
+  {
+    "objectID": "assets/Node/Geo/Hair Mask.html",
+    "href": "assets/Node/Geo/Hair Mask.html",
+    "title": "Hair Mask",
+    "section": "",
+    "text": "This improves performance by deleting hairs based on distance to some “mask” empties. This allows you to groom small regions of fur with high density or heavy modifiers in real time, so you can immediately see how your grooming will affect the final look.\n\nDelete hairs by distance\nDeletes hairs if their root is outside the mask.\n\n\nDelete hairs by distance to surface mesh\nDeletes hairs if their root is stuck to a face of the surface mesh outside the mask. the This is a slightly less accurate, but probably faster approach since there are usually fewer vertices in the hairs’ surface mesh than in the hairs themselves.\nThere are two versions of this nodegroup: one which is applied to the"
+  },
+  {
+    "objectID": "assets/Node/Shader/Hair Attrs.html",
+    "href": "assets/Node/Shader/Hair Attrs.html",
+    "title": "Groomviz",
+    "section": "",
+    "text": "This nodegroup colors hairs based on useful attributes, intended for use while working on a groom.\nTo use, simply plug into the Material Output surface, and be in viewport Material Preview or Rendered mode. TODO IMAGE\n\nHairtips\nGives a good sense of the hair density, volume, and direction all at the same time while not being overwhelming.\nTo purely visualize the hair’s volume, you can set the root color to be transparent so only hairtips are visible.\n\n\nTangent\nColors hairs depending on the direction they are pointing. Great way to catch abrupt changes in hair direction which usually look bad.\n\n\nHairlength (animated)\nGreat way to catch any abrupt changes in hair length which usually look bad.\nTODO GIF\n\n\nRainbow\nAnother way to visualize hair length. Not that useful, but looks rad.\n\n\nAttribute\nColor hair based on a named attribute, such as from geonodes.\n\n\nPassthrough\nSimply outputs the material given in the Passthrough input. This is so you can easily switch to your own hair material using the menu dropdown list, without having to replug any node connector noodles."
   }
 ]

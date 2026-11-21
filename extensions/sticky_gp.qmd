@@ -1,0 +1,12 @@
+---
+title: (WIP) Sticky GP
+description: '<a href="https://codeberg.org/tfAnimator/sticky-gp">Source code</a>'
+#image: /site_assets/images/leapsc.png
+date-modified: 2026-11-17
+---
+
+Lets you draw Grease Pencil on a deformed mesh, and have it stick as the mesh deforms further.
+
+How it works: similar to the hair system, it simply records the UV coordinate of the mesh where a GP point is drawn. Then there is an accompanying geonodes group that sets the position of each GP point to the 3D position corresponding to that UV coordinate. <span style="color:#777">It's so simple, and I've seen so many people ask for this functionality, and yet no one has done it yet as far as I can tell?! There are a few solutions out there but they all require you to draw on the resting position of the mesh. There was a [PR for a GP surface deform modifier](https://projects.blender.org/blender/blender/pulls/124782) a couple years ago, but it fizzled out.</span>
+
+Especially in combination with the Build modifier allows you to animate vertex groups in a very art-directible way!

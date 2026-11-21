@@ -1,0 +1,1 @@
+export{a as initLocale}from"./i18n-DhFXFESL.js";

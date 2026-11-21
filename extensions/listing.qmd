@@ -3,6 +3,10 @@ title: Blender Extensions
 listing:
   type: grid
   fields: [image, title, description]
+  grid-columns: 3
+  sort: date-modified
 ---
 
 Add `https://extensions.tfanim.com` as a remote extensions repo to download/update directly from Blender!
+
+<span style="color:#ff9">NOTE:</span> None of these are complete yet, but you can still read a bit about them. Check again in a couple months and hopefully at least One Hand will be ready enough for a v1.0 release.

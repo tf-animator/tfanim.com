@@ -1,0 +1,17 @@
+---
+title: Topo Marks
+categories: Geo nodes
+image: '/assets/Node/Geo/Topo Markers_thumbnails/Nodetree/topo-markers.webp'
+description: '<a href="/assets/Node/Geo/Topo Markers.blend">.blend</a>'
+date-modified: 2026-11-16
+---
+
+This nodegroup helps visualize topology. I find it most useful to highlight poles while I'm retopologizing.
+
+### Visualize individual faceloops
+
+I'm not sure if this is useful but... TODO GIF
+
+### Color faceloops based on length
+
+My favorite. Assigns faceloops a color, grouped by length. This can give a better idea of how faceloops wrap around the mesh, even just looking from one angle.

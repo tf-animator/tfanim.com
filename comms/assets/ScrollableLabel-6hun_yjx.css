@@ -1,0 +1,1 @@
+.scrollable-label{overscroll-behavior-inline:contain;white-space:nowrap;scrollbar-width:none;overflow-x:auto}.scrollable-label[data-pressed]{-webkit-user-select:none;user-select:none}.scrollable-label::-webkit-scrollbar{display:none}

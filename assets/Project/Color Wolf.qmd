@@ -1,0 +1,11 @@
+---
+title: Color Wolf
+categories: Project Files
+image: '/site_assets/images/testrender.png'
+description: 'TODO <a href="/assets/Model/Wolf.blend">.blend </a>, <a href="/assets/Model/Wolf.blend">fullres render</a>'
+date-modified: 2026-11-16
+---
+
+This is my first serious piece ever!
+
+Note: the particle effect in the background was created using the Insydium NeXus add-on, but the file is still usable even without this add-on; the particles were baked to pointcloud.

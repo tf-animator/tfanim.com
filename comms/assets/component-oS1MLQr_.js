@@ -1,0 +1,1 @@
+export{n as TypedComponent,t as default}from"./component-BUG8anuK.js";

@@ -1,14 +1,23 @@
 [
   {
-    "listing": "/extensions/listing.html",
+    "listing": "/assets/listing.html",
     "items": [
-      "/extensions/pcloudstream.html",
-      "/extensions/l4b.html",
-      "/extensions/onehand.html"
+      "/assets/Project/Color Wolf.html",
+      "/assets/Model/Wolf.html",
+      "/assets/Node/Compositor/Dither Static.html",
+      "/assets/Node/Geo/Topo Marks.html",
+      "/assets/Node/Geo/Hair Mask.html",
+      "/assets/Node/Geo/Hair Puff.html",
+      "/assets/Node/Shader/Hair Attrs.html"
     ]
   },
   {
-    "listing": "/assets/listing.html",
-    "items": []
+    "listing": "/extensions/listing.html",
+    "items": [
+      "/extensions/leap4blender.html",
+      "/extensions/pcloudstream.html",
+      "/extensions/sticky_gp.html",
+      "/extensions/one_hand.html"
+    ]
   }
 ]

@@ -1,4 +1,0 @@
----
-title: (WIP) LeapMotion 4 Blender
-description: '<a href="https://github.com">Source code</a>'
----

@@ -86,9 +86,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-image','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-image','listing-title','listing-categories','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-categories"],
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -192,7 +192,7 @@ window.Quarto = {
  <span class="dropdown-text">Terms</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../in_progress.qmd">
+    <a class="dropdown-item" href="../comms/index.html">
  <span class="dropdown-text">In Progress</span></a>
   </li>  
         <li>
@@ -204,20 +204,8 @@ window.Quarto = {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="https://youtube.com/@tfAnims"> 
-<span class="menu-text"><iconify-icon role="img" inline="" icon="simple-icons:youtube" style="color:red" aria-label="Icon youtube from simple-icons Iconify.design set." title="YouTube"></iconify-icon></span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://www.furaffinity.net/user/tfanimator"> 
-<span class="menu-text"><iconify-icon role="img" inline="" icon="pinhead:pawprint" style="display:inline-block; rotate:20deg" aria-label="Icon pawprint from pinhead Iconify.design set." title="FurAffinity"></iconify-icon></span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://bsky.app/profile/tfanimator.bsky.social"> 
-<span class="menu-text"><iconify-icon role="img" inline="" icon="ri:bluesky-fill" style="color:#1185fe" aria-label="Icon bluesky-fill from ri Iconify.design set." title="BlueSky"></iconify-icon></span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="mailto:ani@tfanim.com"> 
-<span class="menu-text"><iconify-icon role="img" inline="" icon="material-symbols:mail-outline" aria-label="Icon mail-outline from material-symbols Iconify.design set." title="email"></iconify-icon></span></a>
+    <a class="nav-link" href="../unused"> 
+<span class="menu-text"><a href="https://youtube.com/@tfAnims"><iconify-icon role="img" inline="" icon="simple-icons:youtube" style="color:red" aria-label="Icon youtube from simple-icons Iconify.design set." title="YouTube"></iconify-icon></a> <a style="color:#777" href="https://furaffinity.net/user/tfanimator"><iconify-icon role="img" inline="" icon="pinhead:pawprint" style="display:inline-block; rotate:20deg" aria-label="Icon pawprint from pinhead Iconify.design set." title="FurAffinity"></iconify-icon></a> <a href="https://bsky.app/profile/tfanimator.bsky.social"><iconify-icon role="img" inline="" icon="ri:bluesky-fill" style="color:#1185fe" aria-label="Icon bluesky-fill from ri Iconify.design set." title="BlueSky"></iconify-icon></a> <a style="color:#777" href="mailto:ani@tfanim.com"><iconify-icon role="img" inline="" icon="material-symbols:mail-outline" aria-label="Icon mail-outline from material-symbols Iconify.design set." title="email"></iconify-icon></a></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -232,7 +220,7 @@ window.Quarto = {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(0)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-unnumbered"><div class="category" data-category="M0QlMjBNb2RlbHM=">3D Models</div><div class="category" data-category="Q29tcG9zLiUyMG5vZGVz">Compos. nodes</div><div class="category" data-category="R2VvJTIwbm9kZXM=">Geo nodes</div><div class="category" data-category="UHJvamVjdCUyMEZpbGVz">Project Files</div><div class="category" data-category="U2hhZGVyJTIwbm9kZXM=">Shader nodes</div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
@@ -255,14 +243,154 @@ window.Quarto = {
 </header>
 
 
-<p>Add <code>https://assets.tfanim.com</code> as a remote asset library to see these directly in your asset browser!</p>
+<p>Add <code>https://assets.tfanim.com</code> as a remote asset library to see these directly in your Blender asset browser!</p>
 
 
 
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
+<div class="list grid quarto-listing-cols-5">
+<div class="g-col-1" data-index="0" data-categories="UHJvamVjdCUyMEZpbGVz" data-listing-file-modified-sort="1794941059524" data-listing-reading-time-sort="1" data-listing-word-count-sort="36">
+<a href="../assets/Project/Color Wolf.html" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="../assets/Project/Color Wolf.html" class="quarto-grid-link">
+<p class="card-img-top">
+<img loading="lazy" src="../site_assets/images/testrender.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+</a><div class="card-body post-contents"><a href="../assets/Project/Color Wolf.html" class="quarto-grid-link">
+<h5 class="no-anchor card-title listing-title">
+Color Wolf
+</h5>
+<div class="listing-categories">
 
+<div class="listing-category" onclick="window.quartoListingCategory('UHJvamVjdCUyMEZpbGVz'); return false;">Project Files</div>
+
+</div>
+</a><div class="card-text listing-description delink"><a href="../assets/Project/Color Wolf.html" class="quarto-grid-link">
+</a><p><a href="../assets/Project/Color Wolf.html" class="quarto-grid-link">TODO </a><a href="../assets/Model/Wolf.blend">.blend </a>, <a href="../assets/Model/Wolf.blend">fullres render</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="g-col-1" data-index="1" data-categories="M0QlMjBNb2RlbHM=" data-listing-file-modified-sort="1795100920097" data-listing-reading-time-sort="1" data-listing-word-count-sort="30">
+<a href="../assets/Model/Wolf.html" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="../assets/Model/Wolf.html" class="quarto-grid-link">
+<p class="card-img-top">
+<img loading="lazy" src="../site_assets/images/tos_basicshape.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+</a><div class="card-body post-contents"><a href="../assets/Model/Wolf.html" class="quarto-grid-link">
+<h5 class="no-anchor card-title listing-title">
+Wolf
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('M0QlMjBNb2RlbHM='); return false;">3D Models</div>
+
+</div>
+</a><div class="card-text listing-description delink"><a href="../assets/Model/Wolf.html" class="quarto-grid-link">
+</a><p><a href="../assets/Model/Wolf.html" class="quarto-grid-link">v0.1 TODO: </a><a href="../assets/Model/Wolf.blend">.blend</a>, <a href="../assets/Model/Wolf.blend">.obj</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Q29tcG9zLiUyMG5vZGVz" data-listing-file-modified-sort="1794940891276" data-listing-reading-time-sort="1" data-listing-word-count-sort="43">
+<a href="../assets/Node/Compositor/Dither Static.html" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="../assets/Node/Compositor/Dither Static.html" class="quarto-grid-link">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+</a><div class="card-body post-contents"><a href="../assets/Node/Compositor/Dither Static.html" class="quarto-grid-link">
+<h5 class="no-anchor card-title listing-title">
+Dither Static
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('Q29tcG9zLiUyMG5vZGVz'); return false;">Compos. nodes</div>
+
+</div>
+</a><div class="card-text listing-description delink"><a href="../assets/Node/Compositor/Dither Static.html" class="quarto-grid-link">
+</a><p><a href="../assets/Node/Compositor/Dither Static.html" class="quarto-grid-link"></a><a href="../assets/Node/Geo/Topo Markers.blend">TODO</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="g-col-1" data-index="3" data-categories="R2VvJTIwbm9kZXM=" data-listing-file-modified-sort="1794873462424" data-listing-reading-time-sort="1" data-listing-word-count-sort="57">
+<a href="../assets/Node/Geo/Topo Marks.html" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="../assets/Node/Geo/Topo Marks.html" class="quarto-grid-link">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/Node/Geo/Topo Markers_thumbnails/Nodetree/topo-markers.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+</a><div class="card-body post-contents"><a href="../assets/Node/Geo/Topo Marks.html" class="quarto-grid-link">
+<h5 class="no-anchor card-title listing-title">
+Topo Marks
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('R2VvJTIwbm9kZXM='); return false;">Geo nodes</div>
+
+</div>
+</a><div class="card-text listing-description delink"><a href="../assets/Node/Geo/Topo Marks.html" class="quarto-grid-link">
+</a><p><a href="../assets/Node/Geo/Topo Marks.html" class="quarto-grid-link"></a><a href="../assets/Node/Geo/Topo Markers.blend">.blend</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="g-col-1" data-index="4" data-categories="R2VvJTIwbm9kZXM=" data-listing-file-modified-sort="1794873001179" data-listing-reading-time-sort="1" data-listing-word-count-sort="114">
+<a href="../assets/Node/Geo/Hair Mask.html" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="../assets/Node/Geo/Hair Mask.html" class="quarto-grid-link">
+<p class="card-img-top">
+<img loading="lazy" src="../assets/Node/Geo/Hair Mask (Hair)_thumbnails/Nodetree/hair-mask-hair.webp" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+</a><div class="card-body post-contents"><a href="../assets/Node/Geo/Hair Mask.html" class="quarto-grid-link">
+<h5 class="no-anchor card-title listing-title">
+Hair Mask
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('R2VvJTIwbm9kZXM='); return false;">Geo nodes</div>
+
+</div>
+</a><div class="card-text listing-description delink"><a href="../assets/Node/Geo/Hair Mask.html" class="quarto-grid-link">
+</a><p><a href="../assets/Node/Geo/Hair Mask.html" class="quarto-grid-link"></a><a href="../assets/Node/Geo/Hair Mask (Hair).blend">.blend (hair)</a>, <a href="../assets/Node/Geo/Hair Mask (Mesh).blend">.blend (mesh)</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="g-col-1" data-index="5" data-categories="R2VvJTIwbm9kZXM=" data-listing-file-modified-sort="1794930447651" data-listing-reading-time-sort="1" data-listing-word-count-sort="92">
+<a href="../assets/Node/Geo/Hair Puff.html" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="../assets/Node/Geo/Hair Puff.html" class="quarto-grid-link">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+</a><div class="card-body post-contents"><a href="../assets/Node/Geo/Hair Puff.html" class="quarto-grid-link">
+<h5 class="no-anchor card-title listing-title">
+Hair Puff
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('R2VvJTIwbm9kZXM='); return false;">Geo nodes</div>
+
+</div>
+</a><div class="card-text listing-description delink"><a href="../assets/Node/Geo/Hair Puff.html" class="quarto-grid-link">
+</a><p><a href="../assets/Node/Geo/Hair Puff.html" class="quarto-grid-link"></a><a href="../assets/Node/Geo/Topo Markers.blend">TODO</a></p>
+</div>
+</div>
+</div>
+</div>
+<div class="g-col-1" data-index="6" data-categories="U2hhZGVyJTIwbm9kZXM=" data-listing-file-modified-sort="1794941105208" data-listing-reading-time-sort="1" data-listing-word-count-sort="168">
+<a href="../assets/Node/Shader/Hair Attrs.html" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="../assets/Node/Shader/Hair Attrs.html" class="quarto-grid-link">
+<div class="listing-item-img-placeholder card-img-top" style="height: 150px;">&nbsp;</div>
+</a><div class="card-body post-contents"><a href="../assets/Node/Shader/Hair Attrs.html" class="quarto-grid-link">
+<h5 class="no-anchor card-title listing-title">
+Groomviz
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('U2hhZGVyJTIwbm9kZXM='); return false;">Shader nodes</div>
+
+</div>
+</a><div class="card-text listing-description delink"><a href="../assets/Node/Shader/Hair Attrs.html" class="quarto-grid-link">
+</a><p><a href="../assets/Node/Shader/Hair Attrs.html" class="quarto-grid-link"></a><a href="../assets/Node/Geo/Topo Markers.blend">TODO</a></p>
+</div>
+</div>
+</div>
+</div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div></main> <!-- /main -->

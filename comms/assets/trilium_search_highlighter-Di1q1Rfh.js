@@ -1,0 +1,1 @@
+export{i as triliumSearchHighlighter}from"./trilium_search_highlighter-CxJyIbxL.js";

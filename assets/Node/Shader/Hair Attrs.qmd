@@ -1,0 +1,40 @@
+---
+title: Groomviz
+categories: Shader nodes
+#image: '/assets/Node/Geo/Topo Markers_thumbnails/Nodetree/topo-markers.webp'
+description: '<a href="/assets/Node/Geo/Topo Markers.blend">TODO</a>'
+date-modified: 2026-11-16
+---
+
+This nodegroup colors hairs based on useful attributes, intended for use while working on a groom.
+
+To use, simply plug into the Material Output surface, and be in viewport Material Preview or Rendered mode.
+TODO IMAGE
+
+### Hairtips
+
+Gives a good sense of the hair density, volume, and direction all at the same time while not being overwhelming.
+
+To purely visualize the hair's volume, you can set the root color to be transparent so only hairtips are visible.
+
+### Tangent
+
+Colors hairs depending on the direction they are pointing. Great way to catch abrupt changes in hair direction which usually look bad.
+
+### Hairlength (animated)
+
+Great way to catch any abrupt changes in hair length which usually look bad.
+
+TODO GIF
+
+### Rainbow
+
+Another way to visualize hair length. Not that useful, but looks rad. 
+
+### Attribute
+
+Color hair based on a named attribute, such as from geonodes.
+
+### Passthrough
+
+Simply outputs the material given in the Passthrough input. This is so you can easily switch to your own hair material using the menu dropdown list, without having to replug any node connector noodles.

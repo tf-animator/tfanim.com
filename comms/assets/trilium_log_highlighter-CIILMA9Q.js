@@ -1,0 +1,1 @@
+export{t as MAX_HIGHLIGHTED_LINES,n as triliumLogHighlighter}from"./trilium_log_highlighter-01EIa5J4.js";

@@ -6,8 +6,9 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="description" content="Source code">
 
-<title>(WIP) .Cloudstream – tfAnimator</title>
+<title>(WIP) pCloudstream – tfAnimator</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -132,7 +133,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="dropdown-text">Terms</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../in_progress.qmd">
+    <a class="dropdown-item" href="../comms/index.html">
  <span class="dropdown-text">In Progress</span></a>
   </li>  
         <li>
@@ -144,20 +145,8 @@ ul.task-list li input[type="checkbox"] {
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="https://youtube.com/@tfAnims"> 
-<span class="menu-text"><iconify-icon role="img" inline="" icon="simple-icons:youtube" style="color:red" aria-label="Icon youtube from simple-icons Iconify.design set." title="YouTube"></iconify-icon></span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://www.furaffinity.net/user/tfanimator"> 
-<span class="menu-text"><iconify-icon role="img" inline="" icon="pinhead:pawprint" style="display:inline-block; rotate:20deg" aria-label="Icon pawprint from pinhead Iconify.design set." title="FurAffinity"></iconify-icon></span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="https://bsky.app/profile/tfanimator.bsky.social"> 
-<span class="menu-text"><iconify-icon role="img" inline="" icon="ri:bluesky-fill" style="color:#1185fe" aria-label="Icon bluesky-fill from ri Iconify.design set." title="BlueSky"></iconify-icon></span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="mailto:ani@tfanim.com"> 
-<span class="menu-text"><iconify-icon role="img" inline="" icon="material-symbols:mail-outline" aria-label="Icon mail-outline from material-symbols Iconify.design set." title="email"></iconify-icon></span></a>
+    <a class="nav-link" href="../unused"> 
+<span class="menu-text"><a href="https://youtube.com/@tfAnims"><iconify-icon role="img" inline="" icon="simple-icons:youtube" style="color:red" aria-label="Icon youtube from simple-icons Iconify.design set." title="YouTube"></iconify-icon></a> <a style="color:#777" href="https://furaffinity.net/user/tfanimator"><iconify-icon role="img" inline="" icon="pinhead:pawprint" style="display:inline-block; rotate:20deg" aria-label="Icon pawprint from pinhead Iconify.design set." title="FurAffinity"></iconify-icon></a> <a href="https://bsky.app/profile/tfanimator.bsky.social"><iconify-icon role="img" inline="" icon="ri:bluesky-fill" style="color:#1185fe" aria-label="Icon bluesky-fill from ri Iconify.design set." title="BlueSky"></iconify-icon></a> <a style="color:#777" href="mailto:ani@tfanim.com"><iconify-icon role="img" inline="" icon="material-symbols:mail-outline" aria-label="Icon mail-outline from material-symbols Iconify.design set." title="email"></iconify-icon></a></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -176,15 +165,26 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">(WIP) .Cloudstream</h1>
+<h1 class="title">(WIP) pCloudstream</h1>
 </div>
 
+<div>
+  <div class="description">
+    <a href="https://codeberg.org/tfAnimator/pcloudstream">Source code</a>
+  </div>
+</div>
 
 
 <div class="quarto-title-meta">
 
     
   
+    <div>
+    <div class="quarto-title-meta-heading">Modified</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date-modified">November 17, 2026</p>
+    </div>
+  </div>
     
   </div>
   
@@ -193,6 +193,24 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<p>Use an XBox Kinect to stream a 3D pointcloud directly into Blender, live!</p>
+<p>The USB bandwidth of a single computer is limited, so I’m making it so that you can send data from Kinects connected to other computers, over a network.</p>
+<p>Currently I can stream at about 5FPS. However, there are many optimizations still up for grabs:</p>
+<ul>
+<li>Don’t send dead points where xyz==0,0,0. These happen when a surface is too close/far to the Kinect.</li>
+<li>Options to quantize XYZ and RGB data</li>
+<li>Randomly cull some proportion of the points before sending.</li>
+<li>Send info from the receiver (running Blender) to the senders (connected to Kinects) to:
+<ul>
+<li>Cull outside a camera’s frustom</li>
+<li>Cull outside a certain box area (e.g.&nbsp;to only send a pointcloud of your body and not the walls of the room)</li>
+<li>Cull points of a certain color (e.g.&nbsp;to precisely cull a room’s floor even if it is touching your feet)</li>
+</ul></li>
+<li>Fix the memory leak in my current implementation…</li>
+</ul>
+<p>Overall these optimizations should easily quadruple the FPS at least, so I’m optimistic about being able to livestream pointclouds at high framerates and low performance cost.</p>
+<p>Here’s a picture of my room streamed into Blender. (The ugly striping will go away once I implement vsync.)</p>
+<p><img src="../site_assets/images/kinectstream.jpg" class="img-fluid"></p>
 
 
 
